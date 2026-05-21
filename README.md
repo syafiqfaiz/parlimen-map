@@ -45,6 +45,8 @@ Each entry contains:
 | 🟠 Orange | WARISAN |
 | 🟣 Purple | MUDA, PBM |
 
+📄 See **[`DATA_SOURCES.md`](./DATA_SOURCES.md)** for complete field-by-field provenance, SPR source URLs, and Federal Gazette references.
+
 ## 🗺️ Source Attribution & Data Quality
 
 ### ✅ Primary Sources
