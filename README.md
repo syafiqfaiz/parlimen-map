@@ -45,11 +45,36 @@ Each entry contains:
 | 🟠 Orange | WARISAN |
 | 🟣 Purple | MUDA, PBM |
 
-## 🗺️ Source
+## 🗺️ Source Attribution & Data Quality
 
-- **Boundary data:** Department of Statistics Malaysia (DOSM) — `electoral_0_parlimen.geojson`
-- **Election results:** Wikipedia (GE15, GE14 tables)
-- **Map renderer:** Leaflet.js with CARTO basemaps
+### ✅ Primary Sources
+
+| Data | Source | Tier |
+|------|--------|------|
+| **Constituency boundaries** (GeoJSON) | DOSM Malaysia (data.gov.my) — official open government geodata | **Primary** |
+| **Constituency codes & names** | DOSM GeoJSON + Wikipedia cross-check | **Primary** |
+| **State assignment** | DOSM GeoJSON | **Primary** |
+
+### ⚠️ Secondary Sources
+
+| Data | Source | Notes |
+|------|--------|-------|
+| **GE15 (2022)** — MP names, party, registered electors, votes, majority, turnout | Wikipedia — "Results of the 2022 Malaysian general election by parliamentary constituency" | Wikipedia sources SPR/EC data, but I scraped the rendered tables, not the raw SPR dataset. Minor transcription errors possible. |
+| **GE14 (2018)** — MP names, party only | Pre-existing data file (origin unclear — likely derived from Wikipedia or SPR publications) | No vote/electors/majority figures for GE14 in this dataset. |
+
+### 🟡 Estimated Data
+
+| Data | Source | Notes |
+|------|--------|-------|
+| **Main town / locality** | Manually assigned based on constituency names and general geography | **Not authoritative.** E.g., "P.220 Baram" mapped to "Marudi" — these are approximate. For precise coverage areas, refer to DOSM boundary maps or the SPR official constituency gazette. |
+
+### 🔗 Links
+
+- **DOSM GeoJSON source:** https://github.com/dosm-malaysia/data-open/tree/main/datasets/geodata
+- **GE15 Wikipedia:** https://en.wikipedia.org/wiki/Results_of_the_2022_Malaysian_general_election_by_parliamentary_constituency
+- **SPR (Suruhanjaya Pilihan Raya):** https://www.spr.gov.my (primary source for all election data — consult directly for official use)
+
+> **⚠️ Disclaimer:** This data is compiled for personal reference / research. The election results are once-removed from SPR's official count. Do not use for legal or official purposes without verifying against SPR's gazetted results.
 
 ## 🛠️ How to Use
 
