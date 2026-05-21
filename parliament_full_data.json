@@ -1,0 +1,5563 @@
+[
+  {
+    "code": "P001",
+    "name": "Padang Besar",
+    "state": "Perlis",
+    "registered_electors_2022": "60192",
+    "turnout_votes": "24267",
+    "turnout_pct": "53.58%",
+    "majority_2022": "12514",
+    "mp_2022_name": "Rusydan Rusmi",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Saat @ Yahya",
+        "party": "PH\u2013AMANAH",
+        "votes": "7085",
+        "pct": "15.64%"
+      },
+      {
+        "name": "Zahidi Zainul Abidin",
+        "party": "IND",
+        "votes": "1939",
+        "pct": "4.28%"
+      },
+      {
+        "name": "Ko Chu Liang",
+        "party": "WARISAN",
+        "votes": "244",
+        "pct": "0.54%"
+      }
+    ],
+    "mp_2018_name": "Zahidi Zainul Abidin",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Padang Besar",
+    "city_region": "Padang Besar"
+  },
+  {
+    "code": "P002",
+    "name": "Kangar",
+    "state": "Perlis",
+    "registered_electors_2022": "74859",
+    "turnout_votes": "24562",
+    "turnout_pct": "43.70%",
+    "majority_2022": "9192",
+    "mp_2022_name": "Zakri Hassan",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Noor Amin Ahmad",
+        "party": "PH\u2013PKR",
+        "votes": "15143",
+        "pct": "26.94%"
+      },
+      {
+        "name": "Rohimi Shapiee",
+        "party": "WARISAN",
+        "votes": "417",
+        "pct": "0.74%"
+      }
+    ],
+    "mp_2018_name": "Noor Amin Ahmad",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Kangar",
+    "city_region": "Kangar"
+  },
+  {
+    "code": "P003",
+    "name": "Arau",
+    "state": "Perlis",
+    "registered_electors_2022": "60876",
+    "turnout_votes": "31458",
+    "turnout_pct": "67.23%",
+    "majority_2022": "23216",
+    "mp_2022_name": "Shahidan Kassim",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Fathin Amelina Fazlie",
+        "party": "PH\u2013PKR",
+        "votes": "7089",
+        "pct": "15.15%"
+      }
+    ],
+    "mp_2018_name": "Shahidan Kassim",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Arau",
+    "city_region": "Arau"
+  },
+  {
+    "code": "P004",
+    "name": "Langkawi",
+    "state": "Kedah",
+    "registered_electors_2022": "66777",
+    "turnout_votes": "25463",
+    "turnout_pct": "53.63%",
+    "majority_2022": "13518",
+    "mp_2022_name": "Suhaimi Abdullah",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Zabidi Yahya",
+        "party": "PH\u2013AMANAH",
+        "votes": "5417",
+        "pct": "11.41%"
+      },
+      {
+        "name": "Abd Kadir",
+        "party": "IND",
+        "votes": "89",
+        "pct": "0.19%"
+      }
+    ],
+    "mp_2018_name": "Mahathir Mohamad",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Kuah",
+    "city_region": "Langkawi"
+  },
+  {
+    "code": "P005",
+    "name": "Jerlun",
+    "state": "Kedah",
+    "registered_electors_2022": "67601",
+    "turnout_votes": "31685",
+    "turnout_pct": "60.69%",
+    "majority_2022": "20456",
+    "mp_2022_name": "Abdul Ghani Ahmad",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohamed Fadzil Mohd Ali",
+        "party": "PH\u2013PKR",
+        "votes": "6149",
+        "pct": "11.78%"
+      }
+    ],
+    "mp_2018_name": "Mukhriz Mahathir",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Jerlun",
+    "city_region": "Jerlun"
+  },
+  {
+    "code": "P006",
+    "name": "Kubang Pasu",
+    "state": "Kedah",
+    "registered_electors_2022": "108217",
+    "turnout_votes": "47584",
+    "turnout_pct": "57.05%",
+    "majority_2022": "31584",
+    "mp_2022_name": "Ku Abdul Rahman Ku Ismail",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Hasmuni Hassan",
+        "party": "BN\u2013UMNO",
+        "votes": "14489",
+        "pct": "17.37%"
+      }
+    ],
+    "mp_2018_name": "Amiruddin Hamzah",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Jitra",
+    "city_region": "Jitra"
+  },
+  {
+    "code": "P007",
+    "name": "Padang Terap",
+    "state": "Kedah",
+    "registered_electors_2022": "59806",
+    "turnout_votes": "28217",
+    "turnout_pct": "58.03%",
+    "majority_2022": "10959",
+    "mp_2022_name": "Nurul Amin Hamid",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Muaz Abdullah",
+        "party": "PH\u2013AMANAH",
+        "votes": "2702",
+        "pct": "5.56%"
+      }
+    ],
+    "mp_2018_name": "Mahdzir Khalid",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kuala Nerang",
+    "city_region": "Kuala Nerang"
+  },
+  {
+    "code": "P008",
+    "name": "Pokok Sena",
+    "state": "Kedah",
+    "registered_electors_2022": "114838",
+    "turnout_votes": "52275",
+    "turnout_pct": "59.44%",
+    "majority_2022": "31751",
+    "mp_2022_name": "Ahmad Saad Yahaya",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Noran Zamini Jamaluddin",
+        "party": "BN\u2013UMNO",
+        "votes": "14523",
+        "pct": "16.51%"
+      },
+      {
+        "name": "Noraini Md Salleh",
+        "party": "WARISAN",
+        "votes": "622",
+        "pct": "0.71%"
+      }
+    ],
+    "mp_2018_name": "Mahfuz Omar",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Pokok Sena",
+    "city_region": "Alor Setar"
+  },
+  {
+    "code": "P009",
+    "name": "Alor Setar",
+    "state": "Kedah",
+    "registered_electors_2022": "105994",
+    "turnout_votes": "37486",
+    "turnout_pct": "48.69%",
+    "majority_2022": "9931",
+    "mp_2022_name": "Afnan Hamimi Taib Azamudden",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Tan Chee Heong",
+        "party": "BN\u2013MCA",
+        "votes": "8930",
+        "pct": "11.60%"
+      },
+      {
+        "name": "Fadzli Hanafi",
+        "party": "WARISAN",
+        "votes": "366",
+        "pct": "0.48%"
+      },
+      {
+        "name": "Sofan Feroza",
+        "party": "IND",
+        "votes": "151",
+        "pct": "0.20%"
+      },
+      {
+        "name": "Nordin Yunus",
+        "party": "IND",
+        "votes": "115",
+        "pct": "0.15%"
+      }
+    ],
+    "mp_2018_name": "Chan Ming Kai",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Alor Setar",
+    "city_region": "Alor Setar"
+  },
+  {
+    "code": "P010",
+    "name": "Kuala Kedah",
+    "state": "Kedah",
+    "registered_electors_2022": "132500",
+    "turnout_votes": "56298",
+    "turnout_pct": "56.03%",
+    "majority_2022": "28061",
+    "mp_2022_name": "Ahmad Fakhruddin Fakhrurazi",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mashitah Ibrahim",
+        "party": "BN\u2013UMNO",
+        "votes": "13879",
+        "pct": "13.81%"
+      },
+      {
+        "name": "Syed Araniri Syed Ahmad",
+        "party": "WARISAN",
+        "votes": "256",
+        "pct": "0.25%"
+      }
+    ],
+    "mp_2018_name": "Azman Ismail",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Kuala Kedah",
+    "city_region": "Alor Setar"
+  },
+  {
+    "code": "P011",
+    "name": "Pendang",
+    "state": "Kedah",
+    "registered_electors_2022": "94547",
+    "turnout_votes": "49008",
+    "turnout_pct": "64.83%",
+    "majority_2022": "31289",
+    "mp_2022_name": "Awang Hashim",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Zulkifly Mohamad",
+        "party": "PH\u2013PKR",
+        "votes": "8058",
+        "pct": "10.66%"
+      }
+    ],
+    "mp_2018_name": "Awang Hashim",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Pendang",
+    "city_region": "Pendang"
+  },
+  {
+    "code": "P012",
+    "name": "Jerai",
+    "state": "Kedah",
+    "registered_electors_2022": "105001",
+    "turnout_votes": "49461",
+    "turnout_pct": "60.10%",
+    "majority_2022": "33192",
+    "mp_2022_name": "Sabri Azit",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Zulhazmi Shariff",
+        "party": "PH\u2013DAP",
+        "votes": "15590",
+        "pct": "18.94%"
+      }
+    ],
+    "mp_2018_name": "Sabri Azit",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Yan",
+    "city_region": "Yan"
+  },
+  {
+    "code": "P013",
+    "name": "Sik",
+    "state": "Kedah",
+    "registered_electors_2022": "63126",
+    "turnout_votes": "34606",
+    "turnout_pct": "67.64%",
+    "majority_2022": "21787",
+    "mp_2022_name": "Ahmad Tarmizi Sulaiman",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Latifah Mohammad Yatim",
+        "party": "PH\u2013AMANAH",
+        "votes": "3736",
+        "pct": "7.30%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Tarmizi Sulaiman",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Sik",
+    "city_region": "Sik"
+  },
+  {
+    "code": "P014",
+    "name": "Merbok",
+    "state": "Kedah",
+    "registered_electors_2022": "132444",
+    "turnout_votes": "52573",
+    "turnout_pct": "51.27%",
+    "majority_2022": "21019",
+    "mp_2022_name": "Mohd Nazri Abu Hassan",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Shaiful Hazizy Zainol Abidin",
+        "party": "BN\u2013UMNO",
+        "votes": "16691",
+        "pct": "16.28%"
+      },
+      {
+        "name": "Khairul Anuar Ahmad",
+        "party": "WARISAN",
+        "votes": "525",
+        "pct": "0.51%"
+      }
+    ],
+    "mp_2018_name": "Nor Azrina Surip",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Merbok",
+    "city_region": "Sungai Petani"
+  },
+  {
+    "code": "P015",
+    "name": "Sungai Petani",
+    "state": "Kedah",
+    "registered_electors_2022": "168847",
+    "turnout_votes": "50580",
+    "turnout_pct": "38.91%",
+    "majority_2022": "1115",
+    "mp_2022_name": "Robert Ling Kui Ee",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Shahanim Mohamad Yusoff",
+        "party": "BN\u2013UMNO",
+        "votes": "27391",
+        "pct": "21.07%"
+      }
+    ],
+    "mp_2018_name": "Johari Abdul",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Sungai Petani",
+    "city_region": "Sungai Petani"
+  },
+  {
+    "code": "P016",
+    "name": "Baling",
+    "state": "Kedah",
+    "registered_electors_2022": "132099",
+    "turnout_votes": "64493",
+    "turnout_pct": "59.13%",
+    "majority_2022": "29137",
+    "mp_2022_name": "Hassan Saad",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Johari Abdullah",
+        "party": "PH\u2013AMANAH",
+        "votes": "8636",
+        "pct": "7.92%"
+      }
+    ],
+    "mp_2018_name": "Abdul Azeez Abdul Rahim",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Baling",
+    "city_region": "Baling"
+  },
+  {
+    "code": "P017",
+    "name": "Padang Serai",
+    "state": "Kedah",
+    "registered_electors_2022": "133867",
+    "turnout_votes": "51637",
+    "turnout_pct": "56.49%",
+    "majority_2022": "16260",
+    "mp_2022_name": "Azman Nasrudin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Sivarraajh Chandran",
+        "party": "BN\u2013MIC",
+        "votes": "2983",
+        "pct": "3.26%"
+      },
+      {
+        "name": "Sreanandha Rao",
+        "party": "IND",
+        "votes": "846",
+        "pct": "0.93%"
+      },
+      {
+        "name": "Mohd Bakri Hashim",
+        "party": "WARISAN",
+        "votes": "149",
+        "pct": "0.16%"
+      }
+    ],
+    "mp_2018_name": "Karuppaiya Muthusamy",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Padang Serai",
+    "city_region": "Kulim"
+  },
+  {
+    "code": "P018",
+    "name": "Kulim-Bandar Baharu",
+    "state": "Kedah",
+    "registered_electors_2022": "90141",
+    "turnout_votes": "34469",
+    "turnout_pct": "49.00%",
+    "majority_2022": "13061",
+    "mp_2022_name": "Roslan Hashim",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Muhar Hussain",
+        "party": "BN\u2013UMNO",
+        "votes": "13872",
+        "pct": "19.72%"
+      }
+    ],
+    "mp_2018_name": "Saifuddin Nasution Ismail",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Kulim",
+    "city_region": "Kulim"
+  },
+  {
+    "code": "P019",
+    "name": "Tumpat",
+    "state": "Kelantan",
+    "registered_electors_2022": "149371",
+    "turnout_votes": "65426",
+    "turnout_pct": "62.51%",
+    "majority_2022": "34793",
+    "mp_2022_name": "Che Abdullah Mat Nawi",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Wan Ahmad Johari Wan Omar",
+        "party": "PH\u2013AMANAH",
+        "votes": "7762",
+        "pct": "7.42%"
+      },
+      {
+        "name": "Khairul Azuan Kamarrudin",
+        "party": "WARISAN",
+        "votes": "245",
+        "pct": "0.23%"
+      }
+    ],
+    "mp_2018_name": "Che Abdullah Mat Nawi",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Tumpat",
+    "city_region": "Tumpat"
+  },
+  {
+    "code": "P020",
+    "name": "Pengkalan Chepa",
+    "state": "Kelantan",
+    "registered_electors_2022": "106982",
+    "turnout_votes": "53933",
+    "turnout_pct": "69.36%",
+    "majority_2022": "38270",
+    "mp_2022_name": "Ahmad Marzuk Shaary",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Nik Faizah Nik Osman",
+        "party": "PH\u2013AMANAH",
+        "votes": "7356",
+        "pct": "9.46%"
+      },
+      {
+        "name": "Mohamad Redzuan Razali",
+        "party": "IND",
+        "votes": "451",
+        "pct": "0.58%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Marzuk Shaary",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Pengkalan Chepa",
+    "city_region": "Kota Bharu"
+  },
+  {
+    "code": "P021",
+    "name": "Kota Bharu",
+    "state": "Kelantan",
+    "registered_electors_2022": "115450",
+    "turnout_votes": "41869",
+    "turnout_pct": "53.67%",
+    "majority_2022": "22613",
+    "mp_2022_name": "Takiyuddin Hassan",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Rosmadi Ismail",
+        "party": "BN\u2013UMNO",
+        "votes": "16168",
+        "pct": "20.72%"
+      },
+      {
+        "name": "Izat Bukhary Ismail Bukhary",
+        "party": "IND",
+        "votes": "91",
+        "pct": "0.12%"
+      }
+    ],
+    "mp_2018_name": "Takiyuddin Hassan",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Kota Bharu",
+    "city_region": "Kota Bharu"
+  },
+  {
+    "code": "P022",
+    "name": "Pasir Mas",
+    "state": "Kelantan",
+    "registered_electors_2022": "94544",
+    "turnout_votes": "44444",
+    "turnout_pct": "68.21%",
+    "majority_2022": "30717",
+    "mp_2022_name": "Ahmad Fadhli Shaari",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Husam Musa",
+        "party": "PH\u2013PKR",
+        "votes": "6439",
+        "pct": "9.88%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Fadhli Shaari",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Pasir Mas",
+    "city_region": "Pasir Mas"
+  },
+  {
+    "code": "P023",
+    "name": "Rantau Panjang",
+    "state": "Kelantan",
+    "registered_electors_2022": "93248",
+    "turnout_votes": "37759",
+    "turnout_pct": "62.38%",
+    "majority_2022": "20636",
+    "mp_2022_name": "Siti Zailah Mohd Yusoff",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Wan Shah Jihan Wan Din",
+        "party": "PH\u2013AMANAH",
+        "votes": "4256",
+        "pct": "7.03%"
+      }
+    ],
+    "mp_2018_name": "Siti Zailah Mohd Yusoff",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Rantau Panjang",
+    "city_region": "Rantau Panjang"
+  },
+  {
+    "code": "P024",
+    "name": "Kubang Kerian",
+    "state": "Kelantan",
+    "registered_electors_2022": "113640",
+    "turnout_votes": "55654",
+    "turnout_pct": "68.38%",
+    "majority_2022": "40847",
+    "mp_2022_name": "Tuan Ibrahim Tuan Man",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Wan Ahmad Kamil Wan Abdullah",
+        "party": "PH\u2013AMANAH",
+        "votes": "10236",
+        "pct": "12.58%"
+      }
+    ],
+    "mp_2018_name": "Tuan Ibrahim Tuan Man",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Kubang Kerian",
+    "city_region": "Kota Bharu"
+  },
+  {
+    "code": "P025",
+    "name": "Bachok",
+    "state": "Kelantan",
+    "registered_electors_2022": "123183",
+    "turnout_votes": "57496",
+    "turnout_pct": "63.89%",
+    "majority_2022": "29901",
+    "mp_2022_name": "Nik Mohamed Abduh Nik Abdul Aziz",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Nur Azmiza Mamat",
+        "party": "PH\u2013PKR",
+        "votes": "4366",
+        "pct": "4.88%"
+      },
+      {
+        "name": "Mohd Zulkifli Zakaria",
+        "party": "IND",
+        "votes": "418",
+        "pct": "0.47%"
+      }
+    ],
+    "mp_2018_name": "Nik Abduh",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Bachok",
+    "city_region": "Bachok"
+  },
+  {
+    "code": "P026",
+    "name": "Ketereh",
+    "state": "Kelantan",
+    "registered_electors_2022": "85281",
+    "turnout_votes": "40542",
+    "turnout_pct": "64.49%",
+    "majority_2022": "23107",
+    "mp_2022_name": "Khilir Mohd Nor",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Rahimi L Muhamud",
+        "party": "PH\u2013PKR",
+        "votes": "4662",
+        "pct": "7.42%"
+      }
+    ],
+    "mp_2018_name": "Annuar Musa",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Ketereh",
+    "city_region": "Ketereh"
+  },
+  {
+    "code": "P027",
+    "name": "Tanah Merah",
+    "state": "Kelantan",
+    "registered_electors_2022": "98782",
+    "turnout_votes": "54266",
+    "turnout_pct": "77.87%",
+    "majority_2022": "44498",
+    "mp_2022_name": "Ikmal Hisham Abdul Aziz",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohamad Supardi Md Noor",
+        "party": "PH\u2013PKR",
+        "votes": "5357",
+        "pct": "7.69%"
+      },
+      {
+        "name": "Nik Sapeia Nik Yusoff",
+        "party": "IND",
+        "votes": "114",
+        "pct": "0.16%"
+      }
+    ],
+    "mp_2018_name": "Ikmal Hisham",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Tanah Merah",
+    "city_region": "Tanah Merah"
+  },
+  {
+    "code": "P028",
+    "name": "Pasir Puteh",
+    "state": "Kelantan",
+    "registered_electors_2022": "113070",
+    "turnout_votes": "52937",
+    "turnout_pct": "65.37%",
+    "majority_2022": "29109",
+    "mp_2022_name": "Nik Muhammad Zawawi Salleh",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Muhammad Husin",
+        "party": "PH\u2013AMANAH",
+        "votes": "3864",
+        "pct": "4.77%"
+      }
+    ],
+    "mp_2018_name": "Nik Muhammad Zawawi Salleh",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Pasir Puteh",
+    "city_region": "Pasir Puteh"
+  },
+  {
+    "code": "P029",
+    "name": "Machang",
+    "state": "Kelantan",
+    "registered_electors_2022": "88825",
+    "turnout_votes": "35603",
+    "turnout_pct": "54.68%",
+    "majority_2022": "10154",
+    "mp_2022_name": "Wan Ahmad Fayhsal Wan Ahmad Kamal",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Rosli Allani Abdul Kadir",
+        "party": "PH\u2013PKR",
+        "votes": "3934",
+        "pct": "6.04%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Jazlan Yaakub",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Machang",
+    "city_region": "Machang"
+  },
+  {
+    "code": "P030",
+    "name": "Jeli",
+    "state": "Kelantan",
+    "registered_electors_2022": "59798",
+    "turnout_votes": "27072",
+    "turnout_pct": "63.03%",
+    "majority_2022": "12464",
+    "mp_2022_name": "Mustapa Mohamed",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Md Radzi Wahab",
+        "party": "PH\u2013AMANAH",
+        "votes": "1140",
+        "pct": "2.65%"
+      }
+    ],
+    "mp_2018_name": "Mustapa Mohamed",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Jeli",
+    "city_region": "Jeli"
+  },
+  {
+    "code": "P031",
+    "name": "Kuala Krai",
+    "state": "Kelantan",
+    "registered_electors_2022": "92335",
+    "turnout_votes": "42740",
+    "turnout_pct": "66.08%",
+    "majority_2022": "25188",
+    "mp_2022_name": "Abdul Latiff Abdul Rahman",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohamad Hishamuddin Ghazali",
+        "party": "PH\u2013AMANAH",
+        "votes": "4148",
+        "pct": "6.41%"
+      }
+    ],
+    "mp_2018_name": "Abdul Latiff Abdul Rahman",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Kuala Krai",
+    "city_region": "Kuala Krai"
+  },
+  {
+    "code": "P032",
+    "name": "Gua Musang",
+    "state": "Kelantan",
+    "registered_electors_2022": "70254",
+    "turnout_votes": "21826",
+    "turnout_pct": "45.12%",
+    "majority_2022": "163",
+    "mp_2022_name": "Mohd Azizi Abu Naim",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Asharun Uji",
+        "party": "PH\u2013PKR",
+        "votes": "4517",
+        "pct": "9.34%"
+      }
+    ],
+    "mp_2018_name": "Tengku Razaleigh Hamzah",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Gua Musang",
+    "city_region": "Gua Musang"
+  },
+  {
+    "code": "P033",
+    "name": "Besut",
+    "state": "Terengganu",
+    "registered_electors_2022": "111650",
+    "turnout_votes": "49569",
+    "turnout_pct": "58.07%",
+    "majority_2022": "18666",
+    "mp_2022_name": "Che Mohamad Zulkifly Jusoh",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Abd Rahman @ Abd Aziz Abas",
+        "party": "PH\u2013AMANAH",
+        "votes": "4339",
+        "pct": "5.08%"
+      }
+    ],
+    "mp_2018_name": "Idris Jusoh",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kuala Besut",
+    "city_region": "Besut"
+  },
+  {
+    "code": "P034",
+    "name": "Setiu",
+    "state": "Terengganu",
+    "registered_electors_2022": "107294",
+    "turnout_votes": "50768",
+    "turnout_pct": "59.85%",
+    "majority_2022": "19032",
+    "mp_2022_name": "Shaharizukirnain Abdul Kadir",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohamad Ngah",
+        "party": "PH\u2013PKR",
+        "votes": "2125",
+        "pct": "2.50%"
+      }
+    ],
+    "mp_2018_name": "Shaharizukirnain Abdul Kadir",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Bandar Permaisuri",
+    "city_region": "Setiu"
+  },
+  {
+    "code": "P035",
+    "name": "Kuala Nerus",
+    "state": "Terengganu",
+    "registered_electors_2022": "105952",
+    "turnout_votes": "56697",
+    "turnout_pct": "64.70%",
+    "majority_2022": "29765",
+    "mp_2022_name": "Alias Razak",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Suhaimi Hashim",
+        "party": "PH\u2013AMANAH",
+        "votes": "3708",
+        "pct": "4.23%"
+      }
+    ],
+    "mp_2018_name": "Mohd Khairuddin Aman Razali",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Kuala Nerus",
+    "city_region": "Kuala Terengganu"
+  },
+  {
+    "code": "P036",
+    "name": "Kuala Terengganu",
+    "state": "Terengganu",
+    "registered_electors_2022": "123305",
+    "turnout_votes": "63016",
+    "turnout_pct": "65.27%",
+    "majority_2022": "40907",
+    "mp_2022_name": "Ahmad Amzad Hashim",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Raja Kamarul Bahrin Shah Raja Ahmad",
+        "party": "PH\u2013AMANAH",
+        "votes": "10946",
+        "pct": "11.34%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Amzad Hashim",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Kuala Terengganu",
+    "city_region": "Kuala Terengganu"
+  },
+  {
+    "code": "P037",
+    "name": "Marang",
+    "state": "Terengganu",
+    "registered_electors_2022": "131756",
+    "turnout_votes": "73115",
+    "turnout_pct": "67.04%",
+    "majority_2022": "41729",
+    "mp_2022_name": "Abdul Hadi Awang",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Azhar Abdul Shukur",
+        "party": "PH\u2013AMANAH",
+        "votes": "4140",
+        "pct": "3.80%"
+      }
+    ],
+    "mp_2018_name": "Hadi Awang",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Marang",
+    "city_region": "Marang"
+  },
+  {
+    "code": "P038",
+    "name": "Hulu Terengganu",
+    "state": "Terengganu",
+    "registered_electors_2022": "87917",
+    "turnout_votes": "42910",
+    "turnout_pct": "59.59%",
+    "majority_2022": "15734",
+    "mp_2022_name": "Rosol Wahid",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Alias Ismail",
+        "party": "PH\u2013PKR",
+        "votes": "1740",
+        "pct": "2.42%"
+      }
+    ],
+    "mp_2018_name": "Rosol Wahid",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kuala Berang",
+    "city_region": "Hulu Terengganu"
+  },
+  {
+    "code": "P039",
+    "name": "Dungun",
+    "state": "Terengganu",
+    "registered_electors_2022": "115559",
+    "turnout_votes": "59720",
+    "turnout_pct": "65.43%",
+    "majority_2022": "34105",
+    "mp_2022_name": "Wan Hassan Mohd Ramli",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohasdjone @ Mohd Johari Mohamad",
+        "party": "PH\u2013PKR",
+        "votes": "5307",
+        "pct": "5.81%"
+      },
+      {
+        "name": "Ghazali Ismail",
+        "party": "IND",
+        "votes": "305",
+        "pct": "0.33%"
+      }
+    ],
+    "mp_2018_name": "Hassan Ramli (politician)",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Dungun",
+    "city_region": "Dungun"
+  },
+  {
+    "code": "P040",
+    "name": "Kemaman",
+    "state": "Terengganu",
+    "registered_electors_2022": "139423",
+    "turnout_votes": "65714",
+    "turnout_pct": "58.11%",
+    "majority_2022": "27179",
+    "mp_2022_name": "Che Alias Hamid",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Hasuni Sudin",
+        "party": "PH\u2013PKR",
+        "votes": "8340",
+        "pct": "7.37%"
+      }
+    ],
+    "mp_2018_name": "Che Alias Hamid",
+    "mp_2018_party": "GS-PAS",
+    "main_town": "Chukai",
+    "city_region": "Kemaman"
+  },
+  {
+    "code": "P041",
+    "name": "Kepala Batas",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "83081",
+    "turnout_votes": "28604",
+    "turnout_pct": "41.27%",
+    "majority_2022": "2867",
+    "mp_2022_name": "Siti Mastura Mohamad",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Reezal Merican Naina Merican",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kepala Batas",
+    "city_region": "Kepala Batas"
+  },
+  {
+    "code": "P042",
+    "name": "Tasek Gelugor",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "80868",
+    "turnout_votes": "31116",
+    "turnout_pct": "46.36%",
+    "majority_2022": "12252",
+    "mp_2022_name": "Wan Saifulruddin Wan Jan",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Razak Ridzuan",
+        "party": "PH\u2013AMANAH",
+        "votes": "16547",
+        "pct": "24.66%"
+      },
+      {
+        "name": "Mohd Akmal Azhar",
+        "party": "WARISAN",
+        "votes": "179",
+        "pct": "0.27%"
+      }
+    ],
+    "mp_2018_name": "Shabudin Yahaya",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Butterworth",
+    "city_region": "Butterworth"
+  },
+  {
+    "code": "P043",
+    "name": "Bagan",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "89447",
+    "turnout_votes": "55797",
+    "turnout_pct": "81.27%",
+    "majority_2022": "49648",
+    "mp_2022_name": "Alan Oh @ Oh Teik Choon",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Tan Chuan Hong",
+        "party": "BN\u2013MCA",
+        "votes": "5385",
+        "pct": "7.84%"
+      }
+    ],
+    "mp_2018_name": "Lim Guan Eng",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Butterworth",
+    "city_region": "Butterworth"
+  },
+  {
+    "code": "P044",
+    "name": "Permatang Pauh",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "107186",
+    "turnout_votes": "37638",
+    "turnout_pct": "43.04%",
+    "majority_2022": "5272",
+    "mp_2022_name": "Muhammad Fawwaz Mohamad Jan",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Zaidi Mohd Zaid",
+        "party": "BN\u2013UMNO",
+        "votes": "16971",
+        "pct": "19.41%"
+      }
+    ],
+    "mp_2018_name": "Nurul Izzah Anwar",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Permatang Pauh",
+    "city_region": "Bukit Mertajam"
+  },
+  {
+    "code": "P045",
+    "name": "Bukit Mertajam",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "120819",
+    "turnout_votes": "71722",
+    "turnout_pct": "77.33%",
+    "majority_2022": "57685",
+    "mp_2022_name": "Steven Koh Tien Yew",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Tan Yang Pang",
+        "party": "BN\u2013MCA",
+        "votes": "6986",
+        "pct": "7.53%"
+      }
+    ],
+    "mp_2018_name": "Steven Sim",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Bukit Mertajam",
+    "city_region": "Bukit Mertajam"
+  },
+  {
+    "code": "P046",
+    "name": "Batu Kawan",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "88812",
+    "turnout_votes": "50744",
+    "turnout_pct": "73.72%",
+    "majority_2022": "40400",
+    "mp_2022_name": "Wong Chia Zen",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Tan Lee Huat",
+        "party": "BN\u2013MCA",
+        "votes": "7145",
+        "pct": "15.03%"
+      },
+      {
+        "name": "Ong Chin Wen",
+        "party": "WARISAN",
+        "votes": "450",
+        "pct": "0.65%"
+      }
+    ],
+    "mp_2018_name": "Kasthuriraani Patto",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Batu Kawan",
+    "city_region": "Simpang Ampat"
+  },
+  {
+    "code": "P047",
+    "name": "Nibong Tebal",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "100062",
+    "turnout_votes": "42188",
+    "turnout_pct": "53.40%",
+    "majority_2022": "16293",
+    "mp_2022_name": "Mansor Othman",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Thanenthiran Ramankutty",
+        "party": "BN\u2013MMSP",
+        "votes": "10660",
+        "pct": "13.44%"
+      },
+      {
+        "name": "Goh Kheng Huat",
+        "party": "IND",
+        "votes": "565",
+        "pct": "0.71%"
+      }
+    ],
+    "mp_2018_name": "Mansor Othman",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Nibong Tebal",
+    "city_region": "Nibong Tebal"
+  },
+  {
+    "code": "P048",
+    "name": "Bukit Bendera",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "92521",
+    "turnout_votes": "49353",
+    "turnout_pct": "78.98%",
+    "majority_2022": "42610",
+    "mp_2022_name": "Hng Chee Wey",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Richie Huan Xin Yun",
+        "party": "BN\u2013PCM",
+        "votes": "5417",
+        "pct": "8.67%"
+      },
+      {
+        "name": "Razalif Mohd Zain",
+        "party": "IND",
+        "votes": "299",
+        "pct": "0.48%"
+      }
+    ],
+    "mp_2018_name": "Wong Hon Wai",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "George Town",
+    "city_region": "George Town"
+  },
+  {
+    "code": "P049",
+    "name": "Tanjong",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "52803",
+    "turnout_votes": "31968",
+    "turnout_pct": "84.83%",
+    "majority_2022": "28754",
+    "mp_2022_name": "Lim Hui Ying",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Chow Kon Yeow",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "George Town",
+    "city_region": "George Town"
+  },
+  {
+    "code": "P050",
+    "name": "Jelutong",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "93989",
+    "turnout_votes": "50369",
+    "turnout_pct": "71.24%",
+    "majority_2022": "38604",
+    "mp_2022_name": "Baljit Singh Jigiri Singh",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Loganathan Thoraisamy",
+        "party": "BN\u2013IPF",
+        "votes": "7387",
+        "pct": "10.45%"
+      },
+      {
+        "name": "Mohamed Yaacob Mohamed Noor",
+        "party": "IND",
+        "votes": "480",
+        "pct": "0.68%"
+      },
+      {
+        "name": "Lim Huat Poh",
+        "party": "WARISAN",
+        "votes": "442",
+        "pct": "0.63%"
+      }
+    ],
+    "mp_2018_name": "RSN Rayer",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "George Town",
+    "city_region": "George Town"
+  },
+  {
+    "code": "P051",
+    "name": "Bukit Gelugor",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "117134",
+    "turnout_votes": "71204",
+    "turnout_pct": "82.73%",
+    "majority_2022": "63112",
+    "mp_2022_name": "Thinaganarabhan Padmanabhan",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Wong Chin Chong",
+        "party": "BN\u2013MCA",
+        "votes": "6777",
+        "pct": "7.87%"
+      }
+    ],
+    "mp_2018_name": "Ramkarpal Singh",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "George Town",
+    "city_region": "George Town"
+  },
+  {
+    "code": "P052",
+    "name": "Bayan Baru",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "119640",
+    "turnout_votes": "55209",
+    "turnout_pct": "61.54%",
+    "majority_2022": "34902",
+    "mp_2022_name": "Oh Tong Keong",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Saw Yee Fung",
+        "party": "BN\u2013MCA",
+        "votes": "13377",
+        "pct": "14.91%"
+      },
+      {
+        "name": "Jeff Ooi Chuan Aun]]",
+        "party": "WARISAN",
+        "votes": "440",
+        "pct": "0.49%"
+      },
+      {
+        "name": "Stevie Chan Keng Leong",
+        "party": "IND",
+        "votes": "124",
+        "pct": "0.14%"
+      }
+    ],
+    "mp_2018_name": "Sim Tze Tzin",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Bayan Baru",
+    "city_region": "George Town"
+  },
+  {
+    "code": "P053",
+    "name": "Balik Pulau",
+    "state": "Pulau Pinang",
+    "registered_electors_2022": "80264",
+    "turnout_votes": "24564",
+    "turnout_pct": "38.43%",
+    "majority_2022": "1582",
+    "mp_2022_name": "Muhammad Harris Idaham Abdul Rashid",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Shah Headan Ayoob Hussain Shah",
+        "party": "BN\u2013UMNO",
+        "votes": "15478",
+        "pct": "24.22%"
+      },
+      {
+        "name": "Sabaruddin Ahmad",
+        "party": "IND",
+        "votes": "366",
+        "pct": "0.57%"
+      },
+      {
+        "name": "Johnny Ch'ng Ewe Gee",
+        "party": "IND",
+        "votes": "180",
+        "pct": "0.28%"
+      }
+    ],
+    "mp_2018_name": "Muhammad Bakhtiar Wan Chik",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Balik Pulau",
+    "city_region": "Balik Pulau"
+  },
+  {
+    "code": "P054",
+    "name": "Gerik",
+    "state": "Perak",
+    "registered_electors_2022": "47565",
+    "turnout_votes": "15105",
+    "turnout_pct": "43.64%",
+    "majority_2022": "1377",
+    "mp_2022_name": "Fathul Huzir Ayob",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Ahmad Tarmizi Mohd Jam",
+        "party": "PH\u2013DAP",
+        "votes": "5779",
+        "pct": "16.70%"
+      }
+    ],
+    "mp_2018_name": "Hasbullah Osman",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Gerik",
+    "city_region": "Gerik"
+  },
+  {
+    "code": "P055",
+    "name": "Lenggong",
+    "state": "Perak",
+    "registered_electors_2022": "36950",
+    "turnout_votes": "12588",
+    "turnout_pct": "45.48%",
+    "majority_2022": "879",
+    "mp_2022_name": "Muhammad Rifaat Razman",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Jurey Latiff Mohd Rosli",
+        "party": "PH\u2013PKR",
+        "votes": "3382",
+        "pct": "12.22%"
+      }
+    ],
+    "mp_2018_name": "Shamsul Anuar Nasarah",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Lenggong",
+    "city_region": "Lenggong"
+  },
+  {
+    "code": "P056",
+    "name": "Larut",
+    "state": "Perak",
+    "registered_electors_2022": "65719",
+    "turnout_votes": "28350",
+    "turnout_pct": "54.65%",
+    "majority_2022": "11598",
+    "mp_2022_name": "Hamzah Zainudin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Zolkarnain Abidin",
+        "party": "PH\u2013AMANAH",
+        "votes": "6207",
+        "pct": "11.95%"
+      }
+    ],
+    "mp_2018_name": "Hamzah Zainudin",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Selama",
+    "city_region": "Larut"
+  },
+  {
+    "code": "P057",
+    "name": "Parit Buntar",
+    "state": "Perak",
+    "registered_electors_2022": "68502",
+    "turnout_votes": "23223",
+    "turnout_pct": "43.90%",
+    "majority_2022": "5395",
+    "mp_2022_name": "Mohd Misbahul Munir Masduki",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Imran Mohd Yusof",
+        "party": "BN\u2013UMNO",
+        "votes": "11593",
+        "pct": "21.91%"
+      }
+    ],
+    "mp_2018_name": "Mujahid Yusof Rawa",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Parit Buntar",
+    "city_region": "Parit Buntar"
+  },
+  {
+    "code": "P058",
+    "name": "Bagan Serai",
+    "state": "Perak",
+    "registered_electors_2022": "80293",
+    "turnout_votes": "33753",
+    "turnout_pct": "53.98%",
+    "majority_2022": "18551",
+    "mp_2022_name": "Idris Ahmad",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Siti Aishah Shaik Ismail",
+        "party": "PH\u2013PKR",
+        "votes": "13195",
+        "pct": "21.10%"
+      }
+    ],
+    "mp_2018_name": "Noor Azmi Ghazali",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Bagan Serai",
+    "city_region": "Bagan Serai"
+  },
+  {
+    "code": "P059",
+    "name": "Bukit Gantang",
+    "state": "Perak",
+    "registered_electors_2022": "94253",
+    "turnout_votes": "32625",
+    "turnout_pct": "45.59%",
+    "majority_2022": "12756",
+    "mp_2022_name": "Syed Abu Hussin Hafiz",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Fakhruldin Mohd Hashim",
+        "party": "PH\u2013AMANAH",
+        "votes": "18565",
+        "pct": "25.94%"
+      }
+    ],
+    "mp_2018_name": "Syed Abu Hussin Hafiz",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Changkat Jering",
+    "city_region": "Bukit Gantang"
+  },
+  {
+    "code": "P060",
+    "name": "Taiping",
+    "state": "Perak",
+    "registered_electors_2022": "121566",
+    "turnout_votes": "47098",
+    "turnout_pct": "55.56%",
+    "majority_2022": "25529",
+    "mp_2022_name": "See Tean Seng",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Neow Choo Seong",
+        "party": "BN\u2013MCA",
+        "votes": "14599",
+        "pct": "17.22%"
+      },
+      {
+        "name": "Leow Thye Yih",
+        "party": "IND",
+        "votes": "1154",
+        "pct": "1.36%"
+      },
+      {
+        "name": "Mohganan P Manikam",
+        "party": "IND",
+        "votes": "236",
+        "pct": "0.28%"
+      },
+      {
+        "name": "A. Rama Moorthy @ Steven Ram",
+        "party": "IND",
+        "votes": "113",
+        "pct": "0.13%"
+      }
+    ],
+    "mp_2018_name": "Teh Kok Lim",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Taiping",
+    "city_region": "Taiping"
+  },
+  {
+    "code": "P061",
+    "name": "Padang Rengas",
+    "state": "Perak",
+    "registered_electors_2022": "38686",
+    "turnout_votes": "12931",
+    "turnout_pct": "43.28%",
+    "majority_2022": "3046",
+    "mp_2022_name": "Azahari Hasan",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Muhammad Kamil Abdul Munim",
+        "party": "PH\u2013PKR",
+        "votes": "7062",
+        "pct": "23.64%"
+      }
+    ],
+    "mp_2018_name": "Mohamed Nazri Abdul Aziz",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Padang Rengas",
+    "city_region": "Padang Rengas"
+  },
+  {
+    "code": "P062",
+    "name": "Sungai Siput",
+    "state": "Perak",
+    "registered_electors_2022": "72395",
+    "turnout_votes": "21637",
+    "turnout_pct": "41.89%",
+    "majority_2022": "1846",
+    "mp_2022_name": "Kesavan Subramaniam",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [
+      {
+        "name": "R Indriani",
+        "party": "IND",
+        "votes": "614",
+        "pct": "1.19%"
+      },
+      {
+        "name": "Baharudin Kamarudin",
+        "party": "IND",
+        "votes": "598",
+        "pct": "1.16%"
+      },
+      {
+        "name": "Rajah Narasam",
+        "party": "IND",
+        "votes": "35",
+        "pct": "0.07%"
+      }
+    ],
+    "mp_2018_name": "Kesavan Subramaniam",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Sungai Siput",
+    "city_region": "Sungai Siput"
+  },
+  {
+    "code": "P063",
+    "name": "Tambun",
+    "state": "Perak",
+    "registered_electors_2022": "160558",
+    "turnout_votes": "49625",
+    "turnout_pct": "39.77%",
+    "majority_2022": "3736",
+    "mp_2022_name": "Ahmad Faizal Azumu",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Aminuddin Md Hanafiah",
+        "party": "BN\u2013UMNO",
+        "votes": "28140",
+        "pct": "22.55%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Faizal Azumu",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Tambun",
+    "city_region": "Ipoh"
+  },
+  {
+    "code": "P064",
+    "name": "Ipoh Timor",
+    "state": "Perak",
+    "registered_electors_2022": "118178",
+    "turnout_votes": "57549",
+    "turnout_pct": "72.13%",
+    "majority_2022": "43888",
+    "mp_2022_name": "Nor Afzainizam Salleh",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Ng Kai Cheong",
+        "party": "BN\u2013MCA",
+        "votes": "8570",
+        "pct": "10.74%"
+      }
+    ],
+    "mp_2018_name": "Wong Kah Woh",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Ipoh",
+    "city_region": "Ipoh"
+  },
+  {
+    "code": "P065",
+    "name": "Ipoh Barat",
+    "state": "Perak",
+    "registered_electors_2022": "114654",
+    "turnout_votes": "63915",
+    "turnout_pct": "81.57%",
+    "majority_2022": "56667",
+    "mp_2022_name": "Kulasegaran Murugeson",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "M. Kayveas",
+        "party": "IND",
+        "votes": "378",
+        "pct": "0.48%"
+      }
+    ],
+    "mp_2018_name": "Kulasegaran Murugeson",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Ipoh",
+    "city_region": "Ipoh"
+  },
+  {
+    "code": "P066",
+    "name": "Batu Gajah",
+    "state": "Perak",
+    "registered_electors_2022": "111896",
+    "turnout_votes": "60999",
+    "turnout_pct": "81.38%",
+    "majority_2022": "53836",
+    "mp_2022_name": "Woo Cheong Yuen",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Teoh Chin Chong",
+        "party": "BN\u2013MCA",
+        "votes": "6793",
+        "pct": "9.06%"
+      }
+    ],
+    "mp_2018_name": "V. Sivakumar",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Batu Gajah",
+    "city_region": "Batu Gajah"
+  },
+  {
+    "code": "P067",
+    "name": "Kuala Kangsar",
+    "state": "Perak",
+    "registered_electors_2022": "46985",
+    "turnout_votes": "14380",
+    "turnout_pct": "40.22%",
+    "majority_2022": "3566",
+    "mp_2022_name": "Iskandar Dzulkarnain Abdul Khalid",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Ahmad Termizi Ramli",
+        "party": "PH\u2013AMANAH",
+        "votes": "10356",
+        "pct": "28.96%"
+      }
+    ],
+    "mp_2018_name": "Mastura Mohd Yazid",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kuala Kangsar",
+    "city_region": "Kuala Kangsar"
+  },
+  {
+    "code": "P068",
+    "name": "Beruas",
+    "state": "Perak",
+    "registered_electors_2022": "108249",
+    "turnout_votes": "46710",
+    "turnout_pct": "64.72%",
+    "majority_2022": "33971",
+    "mp_2022_name": "Ong Kean Sing",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Ding Siew Chee",
+        "party": "BN\u2013MCA",
+        "votes": "12724",
+        "pct": "17.63%"
+      }
+    ],
+    "mp_2018_name": "Ngeh Koo Ham",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Sitiawan",
+    "city_region": "Sitiawan"
+  },
+  {
+    "code": "P069",
+    "name": "Parit",
+    "state": "Perak",
+    "registered_electors_2022": "47915",
+    "turnout_votes": "17181",
+    "turnout_pct": "45.76%",
+    "majority_2022": "2155",
+    "mp_2022_name": "Muhamamd Ismi Mat Taib",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Nurthaqaffah Nordin",
+        "party": "PH\u2013AMANAH",
+        "votes": "5063",
+        "pct": "13.49%"
+      }
+    ],
+    "mp_2018_name": "Mohd Nizar Zakaria",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Parit",
+    "city_region": "Parit"
+  },
+  {
+    "code": "P070",
+    "name": "Kampar",
+    "state": "Perak",
+    "registered_electors_2022": "89894",
+    "turnout_votes": "30467",
+    "turnout_pct": "51.30%",
+    "majority_2022": "14330",
+    "mp_2022_name": "Chong Zhemin",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "Leong Cheok Keng",
+        "party": "WARISAN",
+        "votes": "655",
+        "pct": "1.10%"
+      }
+    ],
+    "mp_2018_name": "Su Keong Siong",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Kampar",
+    "city_region": "Kampar"
+  },
+  {
+    "code": "P071",
+    "name": "Gopeng",
+    "state": "Perak",
+    "registered_electors_2022": "143657",
+    "turnout_votes": "55880",
+    "turnout_pct": "53.92%",
+    "majority_2022": "27148",
+    "mp_2022_name": "Muhammad Farhan Abdul Rahim",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Cally Ting Zhao Song",
+        "party": "BN\u2013MCA",
+        "votes": "18393",
+        "pct": "17.75%"
+      },
+      {
+        "name": "Balachandran Gopal",
+        "party": "WARISAN",
+        "votes": "633",
+        "pct": "0.61%"
+      }
+    ],
+    "mp_2018_name": "Lee Boon Chye",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Gopeng",
+    "city_region": "Gopeng"
+  },
+  {
+    "code": "P072",
+    "name": "Tapah",
+    "state": "Perak",
+    "registered_electors_2022": "61946",
+    "turnout_votes": "18398",
+    "turnout_pct": "41.36%",
+    "majority_2022": "5064",
+    "mp_2022_name": "Saravanan Murugan",
+    "mp_2022_party": "BN-MIC",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohamed Akbar Sherrif Ali Yasin",
+        "party": "WARISAN",
+        "votes": "200",
+        "pct": "0.45%"
+      },
+      {
+        "name": "M Kathiravan",
+        "party": "IND",
+        "votes": "99",
+        "pct": "0.22%"
+      }
+    ],
+    "mp_2018_name": "Saravanan Murugan",
+    "mp_2018_party": "BN-MIC",
+    "main_town": "Tapah",
+    "city_region": "Tapah"
+  },
+  {
+    "code": "P073",
+    "name": "Pasir Salak",
+    "state": "Perak",
+    "registered_electors_2022": "74761",
+    "turnout_votes": "24897",
+    "turnout_pct": "43.66%",
+    "majority_2022": "5003",
+    "mp_2022_name": "Jamaluddin Yahya",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Nik Omar Nik Abdul Aziz",
+        "party": "PH\u2013AMANAH",
+        "votes": "11693",
+        "pct": "20.51%"
+      }
+    ],
+    "mp_2018_name": "Tajuddin Abdul Rahman",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Pasir Salak",
+    "city_region": "Pasir Salak"
+  },
+  {
+    "code": "P074",
+    "name": "Lumut",
+    "state": "Perak",
+    "registered_electors_2022": "92972",
+    "turnout_votes": "25212",
+    "turnout_pct": "35.43%",
+    "majority_2022": "363",
+    "mp_2022_name": "Nordin Ahmad Ismail",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Hatta Md Ramli]]",
+        "party": "PH\u2013AMANAH",
+        "votes": "20358",
+        "pct": "28.61%"
+      },
+      {
+        "name": "Mohd Isnin Mohd Ismail @ Ibrahim Khan",
+        "party": "WARISAN",
+        "votes": "358",
+        "pct": "0.50%"
+      }
+    ],
+    "mp_2018_name": "Mohd Hatta Ramli",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Lumut",
+    "city_region": "Lumut"
+  },
+  {
+    "code": "P075",
+    "name": "Bagan Datuk",
+    "state": "Perak",
+    "registered_electors_2022": "58183",
+    "turnout_votes": "16578",
+    "turnout_pct": "39.61%",
+    "majority_2022": "348",
+    "mp_2022_name": "Ahmad Zahid Hamidi",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [
+      {
+        "name": "Tawfik Ismail",
+        "party": "IND",
+        "votes": "226",
+        "pct": "0.54%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Zahid Hamidi",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Bagan Datuk",
+    "city_region": "Bagan Datuk"
+  },
+  {
+    "code": "P076",
+    "name": "Teluk Intan",
+    "state": "Perak",
+    "registered_electors_2022": "87222",
+    "turnout_votes": "33133",
+    "turnout_pct": "51.61%",
+    "majority_2022": "15169",
+    "mp_2022_name": "Zainol Fadzi Paharudin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Murugiah Thopasamy",
+        "party": "BN\u2013MIC",
+        "votes": "12304",
+        "pct": "19.17%"
+      }
+    ],
+    "mp_2018_name": "Nga Kor Ming",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Teluk Intan",
+    "city_region": "Teluk Intan"
+  },
+  {
+    "code": "P077",
+    "name": "Tanjong Malim",
+    "state": "Perak",
+    "registered_electors_2022": "93873",
+    "turnout_votes": "25140",
+    "turnout_pct": "36.08%",
+    "majority_2022": "3541",
+    "mp_2022_name": "Nolee Ashilin Mohammed Radzi",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Mah Hang Soon",
+        "party": "BN\u2013MCA",
+        "votes": "20963",
+        "pct": "30.09%"
+      },
+      {
+        "name": "Jamaluddin Mohd Radzi",
+        "party": "IND",
+        "votes": "1032",
+        "pct": "1.48%"
+      },
+      {
+        "name": "Izzat Johari",
+        "party": "IND",
+        "votes": "328",
+        "pct": "0.47%"
+      }
+    ],
+    "mp_2018_name": "Chang Lih Kang",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Tanjong Malim",
+    "city_region": "Tanjong Malim"
+  },
+  {
+    "code": "P078",
+    "name": "Cameron Highlands",
+    "state": "Pahang",
+    "registered_electors_2022": "46020",
+    "turnout_votes": "16120",
+    "turnout_pct": "48.46%",
+    "majority_2022": "4544",
+    "mp_2022_name": "Ramli Mohd Nor]]",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Sivarraajh Chandran",
+    "mp_2018_party": "BN-MIC",
+    "main_town": "Tanah Rata",
+    "city_region": "Cameron Highlands"
+  },
+  {
+    "code": "P079",
+    "name": "Lipis",
+    "state": "Pahang",
+    "registered_electors_2022": "47124",
+    "turnout_votes": "17672",
+    "turnout_pct": "49.29%",
+    "majority_2022": "6117",
+    "mp_2022_name": "Mohamad Shahrum Osman",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Tengku Zulpuri Shah Raja Puji",
+        "party": "PH\u2013DAP",
+        "votes": "6336",
+        "pct": "17.75%"
+      }
+    ],
+    "mp_2018_name": "Abdul Rahman Mohamad",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kuala Lipis",
+    "city_region": "Lipis"
+  },
+  {
+    "code": "P080",
+    "name": "Raub",
+    "state": "Pahang",
+    "registered_electors_2022": "75064",
+    "turnout_votes": "21613",
+    "turnout_pct": "38.43%",
+    "majority_2022": "4357",
+    "mp_2022_name": "Fakrunizam Ibrahim",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Chong Sin Woon",
+        "party": "BN\u2013MCA",
+        "votes": "16939",
+        "pct": "30.12%"
+      }
+    ],
+    "mp_2018_name": "Tengku Zulpuri Shah Raja Puji",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Raub",
+    "city_region": "Raub"
+  },
+  {
+    "code": "P081",
+    "name": "Jerantut",
+    "state": "Pahang",
+    "registered_electors_2022": "87051",
+    "turnout_votes": "31701",
+    "turnout_pct": "47.49%",
+    "majority_2022": "8092",
+    "mp_2022_name": "Khairil Nizam Khirudin",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Hassan Basri Awang Mat Dahan",
+        "party": "PH\u2013PKR",
+        "votes": "11444",
+        "pct": "17.14%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Nazlan Idris",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Jerantut",
+    "city_region": "Jerantut"
+  },
+  {
+    "code": "P082",
+    "name": "Indera Mahkota",
+    "state": "Pahang",
+    "registered_electors_2022": "120549",
+    "turnout_votes": "41692",
+    "turnout_pct": "44.65%",
+    "majority_2022": "8399",
+    "mp_2022_name": "Saifuddin Abdullah",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Quek Tai Seong",
+        "party": "BN\u2013MCA",
+        "votes": "16530",
+        "pct": "17.70%"
+      }
+    ],
+    "mp_2018_name": "Saifuddin Abdullah",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Indera Mahkota",
+    "city_region": "Kuantan"
+  },
+  {
+    "code": "P083",
+    "name": "Kuantan",
+    "state": "Pahang",
+    "registered_electors_2022": "87597",
+    "turnout_votes": "25514",
+    "turnout_pct": "37.65%",
+    "majority_2022": "2866",
+    "mp_2022_name": "Wan Razali Wan Nor",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Ab Hamid Mohd Nazahar",
+        "party": "BN\u2013UMNO",
+        "votes": "19114",
+        "pct": "28.21%"
+      }
+    ],
+    "mp_2018_name": "Fuziah Salleh",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Kuantan",
+    "city_region": "Kuantan"
+  },
+  {
+    "code": "P084",
+    "name": "Paya Besar",
+    "state": "Pahang",
+    "registered_electors_2022": "79744",
+    "turnout_votes": "26899",
+    "turnout_pct": "43.40%",
+    "majority_2022": "1317",
+    "mp_2022_name": "Aireroshairi Roslan",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Ahmad Azam Mohd Salleh",
+        "party": "PH\u2013AMANAH",
+        "votes": "9192",
+        "pct": "14.83%"
+      }
+    ],
+    "mp_2018_name": "Mohd Shahar Abdullah",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Gambang",
+    "city_region": "Kuantan"
+  },
+  {
+    "code": "P085",
+    "name": "Pekan",
+    "state": "Pahang",
+    "registered_electors_2022": "119443",
+    "turnout_votes": "47418",
+    "turnout_pct": "50.96%",
+    "majority_2022": "8949",
+    "mp_2022_name": "Mohd Fadhil Noor Abdul Karim",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Naim Zainal Abidin",
+        "party": "PH\u2013PKR",
+        "votes": "6316",
+        "pct": "6.79%"
+      },
+      {
+        "name": "Tengku Zainul Hisham Tengku Hussin",
+        "party": "IND",
+        "votes": "366",
+        "pct": "0.39%"
+      }
+    ],
+    "mp_2018_name": "Najib Tun Razak",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Pekan",
+    "city_region": "Pekan"
+  },
+  {
+    "code": "P086",
+    "name": "Maran",
+    "state": "Pahang",
+    "registered_electors_2022": "53128",
+    "turnout_votes": "19600",
+    "turnout_pct": "47.70%",
+    "majority_2022": "1821",
+    "mp_2022_name": "Ismail Abdul Muttalib",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Ahmad Shuhor Awang",
+        "party": "PH\u2013AMANAH",
+        "votes": "3547",
+        "pct": "8.63%"
+      },
+      {
+        "name": "Muhamad Hafiz Al-Hafiz",
+        "party": "IND",
+        "votes": "166",
+        "pct": "0.40%"
+      }
+    ],
+    "mp_2018_name": "Ismail Muttalib",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Maran",
+    "city_region": "Maran"
+  },
+  {
+    "code": "P087",
+    "name": "Kuala Krau",
+    "state": "Pahang",
+    "registered_electors_2022": "60537",
+    "turnout_votes": "22505",
+    "turnout_pct": "47.13%",
+    "majority_2022": "1024",
+    "mp_2022_name": "Kamal Ashaari",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Juhari Osman",
+        "party": "PH\u2013AMANAH",
+        "votes": "3593",
+        "pct": "7.52%"
+      }
+    ],
+    "mp_2018_name": "Ismail Mohamed Said",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kuala Krau",
+    "city_region": "Temerloh"
+  },
+  {
+    "code": "P088",
+    "name": "Temerloh",
+    "state": "Pahang",
+    "registered_electors_2022": "106829",
+    "turnout_votes": "30929",
+    "turnout_pct": "37.43%",
+    "majority_2022": "5520",
+    "mp_2022_name": "Salamiah Mohd Nor",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Sharkar Shamsudin",
+        "party": "BN\u2013UMNO",
+        "votes": "25191",
+        "pct": "30.48%"
+      }
+    ],
+    "mp_2018_name": "Mohd Anuar Mohd Tahir",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Mentakab",
+    "city_region": "Temerloh"
+  },
+  {
+    "code": "P089",
+    "name": "Bentong",
+    "state": "Pahang",
+    "registered_electors_2022": "87058",
+    "turnout_votes": "25075",
+    "turnout_pct": "37.62%",
+    "majority_2022": "692",
+    "mp_2022_name": "Young Syefura Othman",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "Wong Tack",
+        "party": "IND",
+        "votes": "798",
+        "pct": "1.20%"
+      },
+      {
+        "name": "Mohd Khalil Abdul Hamid",
+        "party": "IND",
+        "votes": "168",
+        "pct": "0.25%"
+      }
+    ],
+    "mp_2018_name": "Wong Tack",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Bentong",
+    "city_region": "Bentong"
+  },
+  {
+    "code": "P090",
+    "name": "Bera",
+    "state": "Pahang",
+    "registered_electors_2022": "77669",
+    "turnout_votes": "31762",
+    "turnout_pct": "53.34%",
+    "majority_2022": "16695",
+    "mp_2022_name": "Ismail Sabri Yaakob",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Ismail Sabri Yaakob",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Triang",
+    "city_region": "Bera"
+  },
+  {
+    "code": "P091",
+    "name": "Rompin",
+    "state": "Pahang",
+    "registered_electors_2022": "89131",
+    "turnout_votes": "31589",
+    "turnout_pct": "47.20%",
+    "majority_2022": "1438",
+    "mp_2022_name": "Abdul Khalib Abdullah",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Erman Shah Jaios",
+        "party": "PH\u2013PKR",
+        "votes": "4779",
+        "pct": "7.14%"
+      },
+      {
+        "name": "Hamizi Hussain",
+        "party": "IND",
+        "votes": "408",
+        "pct": "0.61%"
+      }
+    ],
+    "mp_2018_name": "Hasan Arifin",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kuala Rompin",
+    "city_region": "Rompin"
+  },
+  {
+    "code": "P092",
+    "name": "Sabak Bernam",
+    "state": "Selangor",
+    "registered_electors_2022": "51609",
+    "turnout_votes": "17973",
+    "turnout_pct": "43.86%",
+    "majority_2022": "5056",
+    "mp_2022_name": "Mohd Fasiah Mohd Fakeh",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Shamsul Ma'arif Ismail",
+        "party": "PH\u2013AMANAH",
+        "votes": "9627",
+        "pct": "23.49%"
+      }
+    ],
+    "mp_2018_name": "Fasiah Fakeh",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Sabak Bernam",
+    "city_region": "Sabak Bernam"
+  },
+  {
+    "code": "P093",
+    "name": "Sungai Besar",
+    "state": "Selangor",
+    "registered_electors_2022": "64382",
+    "turnout_votes": "19791",
+    "turnout_pct": "38.75%",
+    "majority_2022": "2721",
+    "mp_2022_name": "Muslimin Yahaya",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Jamal Yunos",
+        "party": "BN\u2013UMNO",
+        "votes": "13984",
+        "pct": "27.38%"
+      }
+    ],
+    "mp_2018_name": "Muslimin Yahaya",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Sungai Besar",
+    "city_region": "Sungai Besar"
+  },
+  {
+    "code": "P094",
+    "name": "Hulu Selangor",
+    "state": "Selangor",
+    "registered_electors_2022": "154317",
+    "turnout_votes": "46823",
+    "turnout_pct": "38.24%",
+    "majority_2022": "1562",
+    "mp_2022_name": "Mohd Hasnizan Harun",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohan Thangarasu",
+        "party": "BN\u2013MIC",
+        "votes": "27050",
+        "pct": "22.09%"
+      },
+      {
+        "name": "Azlinda Baroni",
+        "party": "IND",
+        "votes": "446",
+        "pct": "0.36%"
+      }
+    ],
+    "mp_2018_name": "June Leow Hsiad Hui",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Kuala Kubu Bharu",
+    "city_region": "Hulu Selangor"
+  },
+  {
+    "code": "P095",
+    "name": "Tanjong Karang",
+    "state": "Selangor",
+    "registered_electors_2022": "62194",
+    "turnout_votes": "18054",
+    "turnout_pct": "35.26%",
+    "majority_2022": "2180",
+    "mp_2022_name": "Zulkafperi Hanapi",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Rosni Mastol",
+        "party": "IND",
+        "votes": "1406",
+        "pct": "2.75%"
+      }
+    ],
+    "mp_2018_name": "Noh Omar",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Tanjong Karang",
+    "city_region": "Tanjong Karang"
+  },
+  {
+    "code": "P096",
+    "name": "Kuala Selangor",
+    "state": "Selangor",
+    "registered_electors_2022": "102951",
+    "turnout_votes": "31033",
+    "turnout_pct": "35.88%",
+    "majority_2022": "1002",
+    "mp_2022_name": "Dzulkefly Ahmad",
+    "mp_2022_party": "PH-AMANAH",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Dzulkefly Ahmad",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Kuala Selangor",
+    "city_region": "Kuala Selangor"
+  },
+  {
+    "code": "P097",
+    "name": "Selayang",
+    "state": "Selangor",
+    "registered_electors_2022": "181539",
+    "turnout_votes": "72773",
+    "turnout_pct": "50.23%",
+    "majority_2022": "23619",
+    "mp_2022_name": "Abdul Rashid Asari",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Chan Wun Hoong",
+        "party": "BN\u2013MCA",
+        "votes": "19425",
+        "pct": "13.41%"
+      },
+      {
+        "name": "Muhammad Zaki Omar",
+        "party": "IND",
+        "votes": "945",
+        "pct": "0.65%"
+      }
+    ],
+    "mp_2018_name": "William Leong Jee Keen",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Selayang",
+    "city_region": "Selayang"
+  },
+  {
+    "code": "P098",
+    "name": "Gombak",
+    "state": "Selangor",
+    "registered_electors_2022": "206744",
+    "turnout_votes": "72267",
+    "turnout_pct": "43.69%",
+    "majority_2022": "12729",
+    "mp_2022_name": "Mohamed Azmin Ali",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Megat Zulkarnain Omardin",
+        "party": "BN\u2013UMNO",
+        "votes": "30723",
+        "pct": "18.57%"
+      },
+      {
+        "name": "Zulkifli Ahmad",
+        "party": "IND",
+        "votes": "675",
+        "pct": "0.41%"
+      }
+    ],
+    "mp_2018_name": "Mohamed Azmin Ali",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Batu Caves",
+    "city_region": "Gombak"
+  },
+  {
+    "code": "P099",
+    "name": "Ampang",
+    "state": "Selangor",
+    "registered_electors_2022": "133494",
+    "turnout_votes": "56754",
+    "turnout_pct": "54.35%",
+    "majority_2022": "29681",
+    "mp_2022_name": "Zuraida Kamaruddin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Ivone Low Yi Wen",
+        "party": "BN\u2013MCA",
+        "votes": "11509",
+        "pct": "11.02%"
+      },
+      {
+        "name": "Bryan Lai Wai Chong",
+        "party": "WARISAN",
+        "votes": "1423",
+        "pct": "1.36%"
+      },
+      {
+        "name": "Muhammad Shafiq Izwan Mohd Yunos",
+        "party": "IND",
+        "votes": "188",
+        "pct": "0.18%"
+      },
+      {
+        "name": "Raveendran Marnokaran",
+        "party": "IND",
+        "votes": "148",
+        "pct": "0.14%"
+      },
+      {
+        "name": "Tan Hua Meng",
+        "party": "IND",
+        "votes": "93",
+        "pct": "0.09%"
+      }
+    ],
+    "mp_2018_name": "Zuraida Kamaruddin",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Ampang",
+    "city_region": "Ampang"
+  },
+  {
+    "code": "P100",
+    "name": "Pandan",
+    "state": "Selangor",
+    "registered_electors_2022": "148730",
+    "turnout_votes": "74002",
+    "turnout_pct": "63.98%",
+    "majority_2022": "48296",
+    "mp_2022_name": "Muhammad Rafique Zubir",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Leong Kok Wee",
+        "party": "BN\u2013MCA",
+        "votes": "11664",
+        "pct": "10.09%"
+      },
+      {
+        "name": "Ong Tee Keat",
+        "party": "WARISAN",
+        "votes": "3323",
+        "pct": "2.87%"
+      }
+    ],
+    "mp_2018_name": "Wan Azizah Wan Ismail",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Pandan Indah",
+    "city_region": "Ampang"
+  },
+  {
+    "code": "P101",
+    "name": "Hulu Langat",
+    "state": "Selangor",
+    "registered_electors_2022": "166902",
+    "turnout_votes": "58382",
+    "turnout_pct": "42.68%",
+    "majority_2022": "14896",
+    "mp_2022_name": "Mohd Radzi Abd Latif",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Johan Abdul Aziz",
+        "party": "BN\u2013UMNO",
+        "votes": "32570",
+        "pct": "23.81%"
+      },
+      {
+        "name": "Abdul Rahman Jaafar",
+        "party": "WARISAN",
+        "votes": "370",
+        "pct": "0.27%"
+      },
+      {
+        "name": "Muhammad Mustafa",
+        "party": "IND",
+        "votes": "326",
+        "pct": "0.24%"
+      }
+    ],
+    "mp_2018_name": "Hasanuddin Mohd Yunus",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Kajang",
+    "city_region": "Kajang"
+  },
+  {
+    "code": "P102",
+    "name": "Bangi",
+    "state": "Selangor",
+    "registered_electors_2022": "303430",
+    "turnout_votes": "141568",
+    "turnout_pct": "57.95%",
+    "majority_2022": "69701",
+    "mp_2022_name": "Muhammad Nazrul Hakim Md. Nazir",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Hoh Hee Lee",
+        "party": "BN\u2013MCA",
+        "votes": "25685",
+        "pct": "10.51%"
+      },
+      {
+        "name": "Jamal Hisham Hashim",
+        "party": "IND",
+        "votes": "676",
+        "pct": "0.28%"
+      },
+      {
+        "name": "Muhammad Fauzi Hasim",
+        "party": "IND",
+        "votes": "401",
+        "pct": "0.16%"
+      },
+      {
+        "name": "Suthan Mookiah",
+        "party": "IND",
+        "votes": "194",
+        "pct": "0.08%"
+      }
+    ],
+    "mp_2018_name": "Ong Kian Ming",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Bangi",
+    "city_region": "Kajang"
+  },
+  {
+    "code": "P103",
+    "name": "Puchong",
+    "state": "Selangor",
+    "registered_electors_2022": "152861",
+    "turnout_votes": "79425",
+    "turnout_pct": "65.67%",
+    "majority_2022": "57957",
+    "mp_2022_name": "Yeo Bee Yin",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "Kuan Chee Heng",
+        "party": "IND",
+        "votes": "1793",
+        "pct": "1.48%"
+      }
+    ],
+    "mp_2018_name": "Gobind Singh Deo",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Puchong",
+    "city_region": "Puchong"
+  },
+  {
+    "code": "P104",
+    "name": "Subang",
+    "state": "Selangor",
+    "registered_electors_2022": "230940",
+    "turnout_votes": "138259",
+    "turnout_pct": "77.68%",
+    "majority_2022": "115074",
+    "mp_2022_name": "Alex Ang Hiang Ni",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Kow Cheong Wei",
+        "party": "BN\u2013MCA",
+        "votes": "16539",
+        "pct": "9.29%"
+      }
+    ],
+    "mp_2018_name": "Wong Chen",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Subang Jaya",
+    "city_region": "Shah Alam"
+  },
+  {
+    "code": "P105",
+    "name": "Petaling Jaya",
+    "state": "Selangor",
+    "registered_electors_2022": "195148",
+    "turnout_votes": "83311",
+    "turnout_pct": "57.12%",
+    "majority_2022": "50515",
+    "mp_2022_name": "Theng Book",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Chew Hian Tat",
+        "party": "BN\u2013MCA",
+        "votes": "23253",
+        "pct": "15.94%"
+      },
+      {
+        "name": "K J John",
+        "party": "IND",
+        "votes": "461",
+        "pct": "0.32%"
+      }
+    ],
+    "mp_2018_name": "Maria Chin Abdullah",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Petaling Jaya",
+    "city_region": "Petaling Jaya"
+  },
+  {
+    "code": "P106",
+    "name": "Damansara",
+    "state": "Selangor",
+    "registered_electors_2022": "239103",
+    "turnout_votes": "142875",
+    "turnout_pct": "81.67%",
+    "majority_2022": "124619",
+    "mp_2022_name": "Lim Si Ching",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Tan Gim Tuan",
+        "party": "BN\u2013MCA",
+        "votes": "13806",
+        "pct": "7.89%"
+      }
+    ],
+    "mp_2018_name": "Tony Pua",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Damansara",
+    "city_region": "Petaling Jaya"
+  },
+  {
+    "code": "P107",
+    "name": "Sungai Buloh",
+    "state": "Selangor",
+    "registered_electors_2022": "158090",
+    "turnout_votes": "50943",
+    "turnout_pct": "39.30%",
+    "majority_2022": "2693",
+    "mp_2022_name": "Ramanan Ramakrishnan",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [
+      {
+        "name": "Syed Abdul Razak Syed Long Alsagoff",
+        "party": "IND",
+        "votes": "165",
+        "pct": "0.13%"
+      },
+      {
+        "name": "Nurhaslinda Basri",
+        "party": "IND",
+        "votes": "113",
+        "pct": "0.09%"
+      }
+    ],
+    "mp_2018_name": "Sivarasa Rasiah",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Sungai Buloh",
+    "city_region": "Sungai Buloh"
+  },
+  {
+    "code": "P108",
+    "name": "Shah Alam",
+    "state": "Selangor",
+    "registered_electors_2022": "165744",
+    "turnout_votes": "61409",
+    "turnout_pct": "45.23%",
+    "majority_2022": "18095",
+    "mp_2022_name": "Afif Bahardin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Hizatul Isham Abdul Jalil]]",
+        "party": "BN\u2013UMNO",
+        "votes": "28266",
+        "pct": "20.82%"
+      }
+    ],
+    "mp_2018_name": "Khalid Samad",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Shah Alam",
+    "city_region": "Shah Alam"
+  },
+  {
+    "code": "P109",
+    "name": "Kapar",
+    "state": "Selangor",
+    "registered_electors_2022": "189369",
+    "turnout_votes": "65751",
+    "turnout_pct": "41.61%",
+    "majority_2022": "11782",
+    "mp_2022_name": "Halimah Ali",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Muhammad Noor Azman",
+        "party": "BN\u2013UMNO",
+        "votes": "35079",
+        "pct": "22.20%"
+      },
+      {
+        "name": "VP Sevelinggam",
+        "party": "IND",
+        "votes": "477",
+        "pct": "0.30%"
+      },
+      {
+        "name": "Rahim Awang",
+        "party": "WARISAN",
+        "votes": "265",
+        "pct": "0.17%"
+      }
+    ],
+    "mp_2018_name": "Abdullah Sani Abdul Hamid",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Kapar",
+    "city_region": "Klang"
+  },
+  {
+    "code": "P110",
+    "name": "Klang",
+    "state": "Selangor",
+    "registered_electors_2022": "208913",
+    "turnout_votes": "115539",
+    "turnout_pct": "70.49%",
+    "majority_2022": "91801",
+    "mp_2022_name": "Jaya Chandran Perumal",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Tee Hooi Ling",
+        "party": "BN\u2013MCA",
+        "votes": "19762",
+        "pct": "12.06%"
+      },
+      {
+        "name": "Hedrhin Ramli @ Awin",
+        "party": "IND",
+        "votes": "3016",
+        "pct": "1.84%"
+      },
+      {
+        "name": "Loo Cheng Wee",
+        "party": "WARISAN",
+        "votes": "1140",
+        "pct": "0.70%"
+      },
+      {
+        "name": "JR Deepak Jaikishan",
+        "party": "IND",
+        "votes": "439",
+        "pct": "0.27%"
+      }
+    ],
+    "mp_2018_name": "Charles Anthony Santiago",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Klang",
+    "city_region": "Klang"
+  },
+  {
+    "code": "P111",
+    "name": "Kota Raja",
+    "state": "Selangor",
+    "registered_electors_2022": "244712",
+    "turnout_votes": "123306",
+    "turnout_pct": "62.36%",
+    "majority_2022": "73998",
+    "mp_2022_name": "Mohamed Diah Baharun",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Kajendran Doraisamy",
+        "party": "BN\u2013MIC",
+        "votes": "22225",
+        "pct": "11.24%"
+      },
+      {
+        "name": "Kumar Karananendi",
+        "party": "IND",
+        "votes": "209",
+        "pct": "0.11%"
+      },
+      {
+        "name": "P Raveentharan A Periasamy",
+        "party": "IND",
+        "votes": "163",
+        "pct": "0.08%"
+      },
+      {
+        "name": "Suhendhar Selvaraju",
+        "party": "IND",
+        "votes": "106",
+        "pct": "0.05%"
+      }
+    ],
+    "mp_2018_name": "Mohamad Sabu",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Kota Raja",
+    "city_region": "Klang"
+  },
+  {
+    "code": "P112",
+    "name": "Kuala Langat",
+    "state": "Selangor",
+    "registered_electors_2022": "148637",
+    "turnout_votes": "52867",
+    "turnout_pct": "42.68%",
+    "majority_2022": "1833",
+    "mp_2022_name": "Ahmad Yunus Hairi",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohana Muniandy Raman",
+        "party": "BN\u2013MIC",
+        "votes": "18685",
+        "pct": "15.09%"
+      },
+      {
+        "name": "Zanariah Jumhuri",
+        "party": "IND",
+        "votes": "512",
+        "pct": "0.41%"
+      }
+    ],
+    "mp_2018_name": "Xavier Jayakumar Arulanandam",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Banting",
+    "city_region": "Kuala Langat"
+  },
+  {
+    "code": "P113",
+    "name": "Sepang",
+    "state": "Selangor",
+    "registered_electors_2022": "168039",
+    "turnout_votes": "56264",
+    "turnout_pct": "40.78%",
+    "majority_2022": "8949",
+    "mp_2022_name": "Rina Harun",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Anuar Basiran",
+        "party": "BN\u2013UMNO",
+        "votes": "31097",
+        "pct": "22.54%"
+      },
+      {
+        "name": "Shahrul Amri Mat Sari",
+        "party": "IND",
+        "votes": "319",
+        "pct": "0.23%"
+      },
+      {
+        "name": "Muneswaran Muthiah",
+        "party": "IND",
+        "votes": "194",
+        "pct": "0.14%"
+      }
+    ],
+    "mp_2018_name": "Mohamed Hanipa Maidin",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Salak Tinggi",
+    "city_region": "Sepang"
+  },
+  {
+    "code": "P114",
+    "name": "Kepong",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "94285",
+    "turnout_votes": "64308",
+    "turnout_pct": "88.92%",
+    "majority_2022": "61081",
+    "mp_2022_name": "Lim Lip Eng",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "Yee Poh Ping",
+        "party": "IND",
+        "votes": "1461",
+        "pct": "2.02%"
+      },
+      {
+        "name": "Young Shang Yi",
+        "party": "WARISAN",
+        "votes": "528",
+        "pct": "0.73%"
+      }
+    ],
+    "mp_2018_name": "Lim Lip Eng",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Kepong",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P115",
+    "name": "Batu",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "113863",
+    "turnout_votes": "45716",
+    "turnout_pct": "52.46%",
+    "majority_2022": "22241",
+    "mp_2022_name": "Azhar Yahya",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "A. Kohilan Pillay G. Appu",
+        "party": "BN\u2013MIC",
+        "votes": "10398",
+        "pct": "11.38%"
+      },
+      {
+        "name": "Chua Tian Chang",
+        "party": "IND",
+        "votes": "4603",
+        "pct": "5.28%"
+      },
+      {
+        "name": "Siti Zabedah Kasim",
+        "party": "IND",
+        "votes": "653",
+        "pct": "0.75%"
+      },
+      {
+        "name": "Nur Fathiah Syazwana Shaharuddin",
+        "party": "IND",
+        "votes": "628",
+        "pct": "0.72%"
+      },
+      {
+        "name": "Naganathan Pillai",
+        "party": "WARISAN",
+        "votes": "575",
+        "pct": "0.66%"
+      },
+      {
+        "name": "Too Gao Lan @ Too Cheng Huat",
+        "party": "IND",
+        "votes": "112",
+        "pct": "0.13%"
+      }
+    ],
+    "mp_2018_name": "Prabakaran Parameswaran",
+    "mp_2018_party": "IND",
+    "main_town": "Batu",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P116",
+    "name": "Wangsa Maju",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "120323",
+    "turnout_votes": "46031",
+    "turnout_pct": "49.63%",
+    "majority_2022": "20696",
+    "mp_2022_name": "Nuridah Mohd Salleh",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Shafei Abdullah",
+        "party": "BN\u2013UMNO",
+        "votes": "19595",
+        "pct": "21.13%"
+      },
+      {
+        "name": "Wee Choo Keong",
+        "party": "WARISAN",
+        "votes": "576",
+        "pct": "0.62%"
+      },
+      {
+        "name": "Raveentheran Suntheralingam",
+        "party": "IND",
+        "votes": "216",
+        "pct": "0.23%"
+      }
+    ],
+    "mp_2018_name": "Tan Yee Kew",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Wangsa Maju",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P117",
+    "name": "Segambut",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "119652",
+    "turnout_votes": "68438",
+    "turnout_pct": "80.05%",
+    "majority_2022": "59684",
+    "mp_2022_name": "Prabagaran Vythilingam",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Daniel Ling Sia Chin",
+        "party": "BN\u2013MCA",
+        "votes": "8304",
+        "pct": "9.71%"
+      }
+    ],
+    "mp_2018_name": "Hannah Yeoh",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Segambut",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P118",
+    "name": "Setiawangsa",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "95753",
+    "turnout_votes": "34434",
+    "turnout_pct": "46.06%",
+    "majority_2022": "12164",
+    "mp_2022_name": "Nurul Fadzilah Kamarulddin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Izudin Ishak",
+        "party": "BN\u2013UMNO",
+        "votes": "16333",
+        "pct": "21.85%"
+      },
+      {
+        "name": "Mior Rosli Mior Mohd Jaafar",
+        "party": "IND",
+        "votes": "492",
+        "pct": "0.66%"
+      },
+      {
+        "name": "Stanley Lim Yen Tiong",
+        "party": "IND",
+        "votes": "282",
+        "pct": "0.38%"
+      }
+    ],
+    "mp_2018_name": "Nik Nazmi Nik Ahmad",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Setiawangsa",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P119",
+    "name": "Titiwangsa",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "80747",
+    "turnout_votes": "25042",
+    "turnout_pct": "41.15%",
+    "majority_2022": "4632",
+    "mp_2022_name": "Rina Harun",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Rina Harun",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Titiwangsa",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P120",
+    "name": "Bukit Bintang",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "79782",
+    "turnout_votes": "43827",
+    "turnout_pct": "82.79%",
+    "majority_2022": "38977",
+    "mp_2022_name": "Fong Kui Lun",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Fong Kui Lun",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Bukit Bintang",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P121",
+    "name": "Lembah Pantai",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "101828",
+    "turnout_votes": "35359",
+    "turnout_pct": "46.09%",
+    "majority_2022": "13912",
+    "mp_2022_name": "Ahmad Fahmi Mohamed Fadzil]]",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Fahmi Fadzil",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Lembah Pantai",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P122",
+    "name": "Seputeh",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "124805",
+    "turnout_votes": "73234",
+    "turnout_pct": "83.74%",
+    "majority_2022": "67187",
+    "mp_2022_name": "Alan Wong Yee Yeng",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Lee Kah Hing",
+        "party": "BN\u2013MCA",
+        "votes": "6032",
+        "pct": "6.90%"
+      },
+      {
+        "name": "Lee Wai Hong",
+        "party": "IND",
+        "votes": "1276",
+        "pct": "1.46%"
+      },
+      {
+        "name": "Choy San Yeh",
+        "party": "IND",
+        "votes": "865",
+        "pct": "0.99%"
+      }
+    ],
+    "mp_2018_name": "Teresa Kok",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Seputeh",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P123",
+    "name": "Cheras",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "101184",
+    "turnout_votes": "60294",
+    "turnout_pct": "84.04%",
+    "majority_2022": "54448",
+    "mp_2022_name": "Ruby Chin Yoke Kheng",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Chong Yew Chuan",
+        "party": "BN\u2013MCA",
+        "votes": "5606",
+        "pct": "7.81%"
+      }
+    ],
+    "mp_2018_name": "Tan Kok Wai",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Cheras",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P124",
+    "name": "Bandar Tun Razak",
+    "state": "Federal Territory of Kuala Lumpur",
+    "registered_electors_2022": "119185",
+    "turnout_votes": "43476",
+    "turnout_pct": "46.74%",
+    "majority_2022": "9817",
+    "mp_2022_name": "Kamarudin Jaafar",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Chew Yin Keen",
+        "party": "BN\u2013MCA",
+        "votes": "15886",
+        "pct": "17.08%"
+      }
+    ],
+    "mp_2018_name": "Kamarudin Jaffar",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Bandar Tun Razak",
+    "city_region": "Kuala Lumpur"
+  },
+  {
+    "code": "P125",
+    "name": "Putrajaya",
+    "state": "Federal Territory of Putrajaya",
+    "registered_electors_2022": "42881",
+    "turnout_votes": "16002",
+    "turnout_pct": "43.67%",
+    "majority_2022": "2310",
+    "mp_2022_name": "Radzi Jidin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Noraishah Mydin Abdul <br> Aziz",
+        "party": "PH-PKR",
+        "votes": "5988",
+        "pct": "16.34%"
+      },
+      {
+        "name": "Samsudin Mohamad Fauzi",
+        "party": "IND",
+        "votes": "63",
+        "pct": "0.17%"
+      },
+      {
+        "name": "Lim Fice Bee",
+        "party": "IND",
+        "votes": "20",
+        "pct": "0.05%"
+      }
+    ],
+    "mp_2018_name": "Tengku Adnan Tengku Mansor",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Putrajaya",
+    "city_region": "Putrajaya"
+  },
+  {
+    "code": "P126",
+    "name": "Jelebu",
+    "state": "Negeri Sembilan",
+    "registered_electors_2022": "59561",
+    "turnout_votes": "21805",
+    "turnout_pct": "48.10%",
+    "majority_2022": "8125",
+    "mp_2022_name": "Jalaluddin Alias",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Jalaluddin Alias",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kuala Klawang",
+    "city_region": "Jelebu"
+  },
+  {
+    "code": "P127",
+    "name": "Jempol",
+    "state": "Negeri Sembilan",
+    "registered_electors_2022": "95813",
+    "turnout_votes": "30138",
+    "turnout_pct": "41.98%",
+    "majority_2022": "5857",
+    "mp_2022_name": "Shamshulkahar Mohd. Deli",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Salim Shariff",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Bahau",
+    "city_region": "Jempol"
+  },
+  {
+    "code": "P128",
+    "name": "Seremban",
+    "state": "Negeri Sembilan",
+    "registered_electors_2022": "157244",
+    "turnout_votes": "63916",
+    "turnout_pct": "51.84%",
+    "majority_2022": "30841",
+    "mp_2022_name": "Mohd Fadli Che Me",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Felicia Wong Yin Ting",
+        "party": "BN\u2013MCA",
+        "votes": "24584",
+        "pct": "19.94%"
+      },
+      {
+        "name": "Izzat Lesly",
+        "party": "IND",
+        "votes": "373",
+        "pct": "0.30%"
+      }
+    ],
+    "mp_2018_name": "Anthony Loke",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Seremban",
+    "city_region": "Seremban"
+  },
+  {
+    "code": "P129",
+    "name": "Kuala Pilah",
+    "state": "Negeri Sembilan",
+    "registered_electors_2022": "63247",
+    "turnout_votes": "21423",
+    "turnout_pct": "44.02%",
+    "majority_2022": "6483",
+    "mp_2022_name": "Eddin Syazlee Shith",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Azman Idris",
+        "party": "WARISAN",
+        "votes": "333",
+        "pct": "0.68%"
+      }
+    ],
+    "mp_2018_name": "Eddin Syazlee Shith",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Kuala Pilah",
+    "city_region": "Kuala Pilah"
+  },
+  {
+    "code": "P130",
+    "name": "Rasah",
+    "state": "Negeri Sembilan",
+    "registered_electors_2022": "155896",
+    "turnout_votes": "81434",
+    "turnout_pct": "68.04%",
+    "majority_2022": "61987",
+    "mp_2022_name": "Cha Kee Chin",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Cha Kee Chin",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Rasah",
+    "city_region": "Seremban"
+  },
+  {
+    "code": "P131",
+    "name": "Rembau",
+    "state": "Negeri Sembilan",
+    "registered_electors_2022": "133555",
+    "turnout_votes": "53075",
+    "turnout_pct": "48.50%",
+    "majority_2022": "19897",
+    "mp_2022_name": "Mohamad Hasan]]",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Khairy Jamaluddin",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Rembau",
+    "city_region": "Rembau"
+  },
+  {
+    "code": "P132",
+    "name": "Port Dickson",
+    "state": "Negeri Sembilan",
+    "registered_electors_2022": "104450",
+    "turnout_votes": "42013",
+    "turnout_pct": "52.40%",
+    "majority_2022": "23601",
+    "mp_2022_name": "Aminuddin Harun",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [
+      {
+        "name": "Abdul Rani Kulup Abdullah",
+        "party": "IND",
+        "votes": "441",
+        "pct": "0.55%"
+      }
+    ],
+    "mp_2018_name": "Danyal Balagopal Abdullah",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Port Dickson",
+    "city_region": "Port Dickson"
+  },
+  {
+    "code": "P133",
+    "name": "Tampin",
+    "state": "Negeri Sembilan",
+    "registered_electors_2022": "81099",
+    "turnout_votes": "23283",
+    "turnout_pct": "38.15%",
+    "majority_2022": "1276",
+    "mp_2022_name": "Mohd Isam Mohd Isa",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Hasan Bahrom",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Tampin",
+    "city_region": "Tampin"
+  },
+  {
+    "code": "P134",
+    "name": "Masjid Tanah",
+    "state": "Malacca",
+    "registered_electors_2022": "69174",
+    "turnout_votes": "25604",
+    "turnout_pct": "46.77%",
+    "majority_2022": "4411",
+    "mp_2022_name": "Mas Ermieyati Samsudin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Mas Ermieyati Samsudin",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Masjid Tanah",
+    "city_region": "Masjid Tanah"
+  },
+  {
+    "code": "P135",
+    "name": "Alor Gajah",
+    "state": "Malacca",
+    "registered_electors_2022": "93311",
+    "turnout_votes": "28178",
+    "turnout_pct": "38.60%",
+    "majority_2022": "890",
+    "mp_2022_name": "Mohd Redzuan Md Yusof",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Mohd Redzuan Md Yusof",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Alor Gajah",
+    "city_region": "Alor Gajah"
+  },
+  {
+    "code": "P136",
+    "name": "Tangga Batu",
+    "state": "Malacca",
+    "registered_electors_2022": "115998",
+    "turnout_votes": "37406",
+    "turnout_pct": "40.65%",
+    "majority_2022": "8849",
+    "mp_2022_name": "Bakri Jamaluddin",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Lim Ban Hong",
+        "party": "BN\u2013MCA",
+        "votes": "25095",
+        "pct": "27.27%"
+      },
+      {
+        "name": "Shahril Mahmood",
+        "party": "IND",
+        "votes": "267",
+        "pct": "0.29%"
+      }
+    ],
+    "mp_2018_name": "Rusnah Aluai",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Tangga Batu",
+    "city_region": "Melaka Tengah"
+  },
+  {
+    "code": "P137",
+    "name": "Hang Tuah Jaya",
+    "state": "Malacca",
+    "registered_electors_2022": "118493",
+    "turnout_votes": "39418",
+    "turnout_pct": "41.72%",
+    "majority_2022": "8638",
+    "mp_2022_name": "Adam Adli Abdul Halim]]",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Shamsul Iskandar Md. Akin",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Ayer Keroh",
+    "city_region": "Melaka Tengah"
+  },
+  {
+    "code": "P138",
+    "name": "Kota Melaka",
+    "state": "Malacca",
+    "registered_electors_2022": "164140",
+    "turnout_votes": "73995",
+    "turnout_pct": "60.07%",
+    "majority_2022": "46420",
+    "mp_2022_name": "Suhaime Borhan",
+    "mp_2022_party": "PN-GERAKAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Kon Qi Yao",
+        "party": "BN\u2013MCA",
+        "votes": "20686",
+        "pct": "16.79%"
+      },
+      {
+        "name": "Norazlanshah Hazali",
+        "party": "IND",
+        "votes": "925",
+        "pct": "0.75%"
+      }
+    ],
+    "mp_2018_name": "Khoo Poay Tiong",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Malacca City",
+    "city_region": "Malacca City"
+  },
+  {
+    "code": "P139",
+    "name": "Jasin",
+    "state": "Malacca",
+    "registered_electors_2022": "96208",
+    "turnout_votes": "27893",
+    "turnout_pct": "35.95%",
+    "majority_2022": "322",
+    "mp_2022_name": "Zulkifli Ismail",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Harun Mohamed",
+        "party": "PH\u2013AMANAH",
+        "votes": "21674",
+        "pct": "27.93%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Hamzah",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Jasin",
+    "city_region": "Jasin"
+  },
+  {
+    "code": "P140",
+    "name": "Segamat",
+    "state": "Johor",
+    "registered_electors_2022": "69360",
+    "turnout_votes": "23437",
+    "turnout_pct": "46.27%",
+    "majority_2022": "5669",
+    "mp_2022_name": "Edmund Santhara Kumar Ramanaidu",
+    "mp_2022_party": "PBM",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Edmund Santhara Kumar Ramanaidu",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Segamat",
+    "city_region": "Segamat"
+  },
+  {
+    "code": "P141",
+    "name": "Sekijang",
+    "state": "Johor",
+    "registered_electors_2022": "63981",
+    "turnout_votes": "18941",
+    "turnout_pct": "39.21%",
+    "majority_2022": "1734",
+    "mp_2022_name": "Zaliha Mustafa",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Zohar Ahmad",
+        "party": "WARISAN",
+        "votes": "339",
+        "pct": "0.70%"
+      }
+    ],
+    "mp_2018_name": "Natrah Ismail",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Sekijang",
+    "city_region": "Segamat"
+  },
+  {
+    "code": "P142",
+    "name": "Labis",
+    "state": "Johor",
+    "registered_electors_2022": "49846",
+    "turnout_votes": "16133",
+    "turnout_pct": "46.43%",
+    "majority_2022": "2833",
+    "mp_2022_name": "Pang Hok Liong",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Pang Hok Liong",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Labis",
+    "city_region": "Labis"
+  },
+  {
+    "code": "P143",
+    "name": "Pagoh",
+    "state": "Johor",
+    "registered_electors_2022": "69939",
+    "turnout_votes": "24986",
+    "turnout_pct": "45.94%",
+    "majority_2022": "10007",
+    "mp_2022_name": "Muhyiddin Yassin",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Razali Ibrahim",
+        "party": "BN\u2013UMNO",
+        "votes": "14426",
+        "pct": "26.52%"
+      }
+    ],
+    "mp_2018_name": "Muhyiddin Yassin",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Pagoh",
+    "city_region": "Muar"
+  },
+  {
+    "code": "P144",
+    "name": "Ledang",
+    "state": "Johor",
+    "registered_electors_2022": "104577",
+    "turnout_votes": "33650",
+    "turnout_pct": "41.90%",
+    "majority_2022": "9769",
+    "mp_2022_name": "Syed Ibrahim Syed Noh",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [
+      {
+        "name": "Yunus Mustakim",
+        "party": "IND",
+        "votes": "140",
+        "pct": "0.17%"
+      },
+      {
+        "name": "Zainal Bahrom",
+        "party": "IND",
+        "votes": "75",
+        "pct": "0.09%"
+      }
+    ],
+    "mp_2018_name": "Syed Ibrahim Syed Noh",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Tangkak",
+    "city_region": "Tangkak"
+  },
+  {
+    "code": "P145",
+    "name": "Bakri",
+    "state": "Johor",
+    "registered_electors_2022": "97335",
+    "turnout_votes": "36636",
+    "turnout_pct": "50.09%",
+    "majority_2022": "19254",
+    "mp_2022_name": "Tan Hong Pin",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "Haron Jaffar",
+        "party": "IND",
+        "votes": "1900",
+        "pct": "2.66%"
+      }
+    ],
+    "mp_2018_name": "Yeo Bee Yin",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Bakri",
+    "city_region": "Muar"
+  },
+  {
+    "code": "P146",
+    "name": "Muar",
+    "state": "Johor",
+    "registered_electors_2022": "68925",
+    "turnout_votes": "37.55%",
+    "turnout_pct": "1,345",
+    "majority_2022": "53158",
+    "mp_2022_name": "Syed Saddiq Syed Abdul Rahman",
+    "mp_2022_party": "MUDA",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Helmy Abd Latif",
+        "party": "BN\u2013UMNO",
+        "votes": "14581",
+        "pct": "27.43%"
+      }
+    ],
+    "mp_2018_name": "Syed Saddiq Syed Abdul Rahman",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Muar",
+    "city_region": "Muar"
+  },
+  {
+    "code": "P147",
+    "name": "Parit Sulong",
+    "state": "Johor",
+    "registered_electors_2022": "79484",
+    "turnout_votes": "25740",
+    "turnout_pct": "40.89%",
+    "majority_2022": "2021",
+    "mp_2022_name": "Abdul Karim Deraman",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Faizal Dollah",
+        "party": "PH\u2013AMANAH",
+        "votes": "13495",
+        "pct": "21.44%"
+      }
+    ],
+    "mp_2018_name": "Noraini Ahmad",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Parit Sulong",
+    "city_region": "Batu Pahat"
+  },
+  {
+    "code": "P148",
+    "name": "Ayer Hitam",
+    "state": "Johor",
+    "registered_electors_2022": "61041",
+    "turnout_votes": "18911",
+    "turnout_pct": "40.50%",
+    "majority_2022": "2963",
+    "mp_2022_name": "Wee Ka Siong",
+    "mp_2022_party": "BN-MCA",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Wee Ka Siong",
+    "mp_2018_party": "BN-MCA",
+    "main_town": "Ayer Hitam",
+    "city_region": "Ayer Hitam"
+  },
+  {
+    "code": "P149",
+    "name": "Sri Gading",
+    "state": "Johor",
+    "registered_electors_2022": "78602",
+    "turnout_votes": "23242",
+    "turnout_pct": "37.94%",
+    "majority_2022": "4000",
+    "mp_2022_name": "Shahruddin Md Salleh",
+    "mp_2022_party": "GTA-PEJUANG",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Shahruddin Md Salleh",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Sri Gading",
+    "city_region": "Batu Pahat"
+  },
+  {
+    "code": "P150",
+    "name": "Batu Pahat",
+    "state": "Johor",
+    "registered_electors_2022": "133910",
+    "turnout_votes": "45242",
+    "turnout_pct": "45.47%",
+    "majority_2022": "15972",
+    "mp_2022_name": "Mohd Rashid Hasnon",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Ishak @ Mohd Farid Siraj",
+        "party": "BN\u2013UMNO",
+        "votes": "24309",
+        "pct": "24.43%"
+      }
+    ],
+    "mp_2018_name": "Mohd Rashid Hasnon",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Batu Pahat",
+    "city_region": "Batu Pahat"
+  },
+  {
+    "code": "P151",
+    "name": "Simpang Renggam",
+    "state": "Johor",
+    "registered_electors_2022": "59033",
+    "turnout_votes": "18312",
+    "turnout_pct": "41.49%",
+    "majority_2022": "1821",
+    "mp_2022_name": "Hasni Mohammad",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Maszlee Malik",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Simpang Renggam",
+    "city_region": "Simpang Renggam"
+  },
+  {
+    "code": "P152",
+    "name": "Kluang",
+    "state": "Johor",
+    "registered_electors_2022": "132342",
+    "turnout_votes": "49801",
+    "turnout_pct": "52.08%",
+    "majority_2022": "26406",
+    "mp_2022_name": "Wong Shu Qi",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "Ramendran Ulaganathan",
+        "party": "IND",
+        "votes": "404",
+        "pct": "0.42%"
+      }
+    ],
+    "mp_2018_name": "Wong Shu Qi",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Kluang",
+    "city_region": "Kluang"
+  },
+  {
+    "code": "P153",
+    "name": "Sembrong",
+    "state": "Johor",
+    "registered_electors_2022": "54982",
+    "turnout_votes": "22572",
+    "turnout_pct": "55.15%",
+    "majority_2022": "10880",
+    "mp_2022_name": "Hishammuddin Hussein",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Hishamuddin Hussein",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Sembrong",
+    "city_region": "Kluang"
+  },
+  {
+    "code": "P154",
+    "name": "Mersing",
+    "state": "Johor",
+    "registered_electors_2022": "66275",
+    "turnout_votes": "21066",
+    "turnout_pct": "44.91%",
+    "majority_2022": "2337",
+    "mp_2022_name": "Abdul Latiff Ahmad",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Fatin Zulaikha Zaidi",
+        "party": "PH\u2013DAP",
+        "votes": "6813",
+        "pct": "14.52%"
+      },
+      {
+        "name": "Ismail Don",
+        "party": "IND",
+        "votes": "89",
+        "pct": "0.19%"
+      }
+    ],
+    "mp_2018_name": "Abdul Latiff Ahmad",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Mersing",
+    "city_region": "Mersing"
+  },
+  {
+    "code": "P155",
+    "name": "Tenggara",
+    "state": "Johor",
+    "registered_electors_2022": "67294",
+    "turnout_votes": "21185",
+    "turnout_pct": "41.26%",
+    "majority_2022": "2991",
+    "mp_2022_name": "Mohd Nazari Mokhtar",
+    "mp_2022_party": "PN-PAS",
+    "mp_2022_opponents": [
+      {
+        "name": "Zuraidah Zainab Mohd Zain",
+        "party": "PH\u2013PKR",
+        "votes": "11618",
+        "pct": "22.63%"
+      }
+    ],
+    "mp_2018_name": "Adham Baba",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kota Tinggi",
+    "city_region": "Kota Tinggi"
+  },
+  {
+    "code": "P156",
+    "name": "Kota Tinggi",
+    "state": "Johor",
+    "registered_electors_2022": "61291",
+    "turnout_votes": "25410",
+    "turnout_pct": "53.68%",
+    "majority_2022": "8390",
+    "mp_2022_name": "Mohamad Ridhwan Rasman",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Onn Jaafar",
+        "party": "PH\u2013AMANAH",
+        "votes": "4903",
+        "pct": "10.36%"
+      }
+    ],
+    "mp_2018_name": "Halimah Mohamed Sadique",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Pengerang",
+    "city_region": "Pengerang"
+  },
+  {
+    "code": "P157",
+    "name": "Pengerang",
+    "state": "Johor",
+    "registered_electors_2022": "55316",
+    "turnout_votes": "21738",
+    "turnout_pct": "51.96%",
+    "majority_2022": "5010",
+    "mp_2022_name": "Fairulnizar Rahmat",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Che Zakaria Mohd Salleh",
+        "party": "PH\u2013AMANAH",
+        "votes": "3374",
+        "pct": "8.06%"
+      }
+    ],
+    "mp_2018_name": "Azalina Othman Said",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Tebrau",
+    "city_region": "Johor Bahru"
+  },
+  {
+    "code": "P158",
+    "name": "Tebrau",
+    "state": "Johor",
+    "registered_electors_2022": "223301",
+    "turnout_votes": "83959",
+    "turnout_pct": "49.99%",
+    "majority_2022": "30720",
+    "mp_2022_name": "Steven Choong Shiau Yoon",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Nicole Wong Siaw Ting",
+        "party": "BN\u2013MCA",
+        "votes": "30767",
+        "pct": "18.32%"
+      }
+    ],
+    "mp_2018_name": "Steven Choong",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Pasir Gudang",
+    "city_region": "Pasir Gudang"
+  },
+  {
+    "code": "P159",
+    "name": "Pasir Gudang",
+    "state": "Johor",
+    "registered_electors_2022": "198485",
+    "turnout_votes": "71223",
+    "turnout_pct": "47.72%",
+    "majority_2022": "31558",
+    "mp_2022_name": "Mohamad Farid Abdul Razak",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Noor Azleen Ambros",
+        "party": "BN\u2013UMNO",
+        "votes": "37369",
+        "pct": "25.03%"
+      }
+    ],
+    "mp_2018_name": "Hassan Abdul Karim",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Johor Bahru",
+    "city_region": "Johor Bahru"
+  },
+  {
+    "code": "P160",
+    "name": "Johor Bahru",
+    "state": "Johor",
+    "registered_electors_2022": "136368",
+    "turnout_votes": "43252",
+    "turnout_pct": "45.82%",
+    "majority_2022": "16041",
+    "mp_2022_name": "Akmal Nasrullah Mohd Nasir",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Akmal Nasrullah Mohd Nasir",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Pulai",
+    "city_region": "Johor Bahru"
+  },
+  {
+    "code": "P161",
+    "name": "Pulai",
+    "state": "Johor",
+    "registered_electors_2022": "165313",
+    "turnout_votes": "64900",
+    "turnout_pct": "55.33%",
+    "majority_2022": "33174",
+    "mp_2022_name": "Salahuddin Ayub",
+    "mp_2022_party": "PH-AMANAH",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Salahuddin Ayub",
+    "mp_2018_party": "PH-AMANAH",
+    "main_town": "Iskandar Puteri",
+    "city_region": "Johor Bahru"
+  },
+  {
+    "code": "P162",
+    "name": "Iskandar Puteri",
+    "state": "Johor",
+    "registered_electors_2022": "222437",
+    "turnout_votes": "96819",
+    "turnout_pct": "59.15%",
+    "majority_2022": "60036",
+    "mp_2022_name": "Liew Chin Tong",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Lim Kit Siang",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Kulai",
+    "city_region": "Kulai"
+  },
+  {
+    "code": "P163",
+    "name": "Kulai",
+    "state": "Johor",
+    "registered_electors_2022": "151247",
+    "turnout_votes": "65529",
+    "turnout_pct": "56.86%",
+    "majority_2022": "36023",
+    "mp_2022_name": "Teo Nie Ching",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Teo Nie Ching",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Pontian",
+    "city_region": "Pontian"
+  },
+  {
+    "code": "P164",
+    "name": "Pontian",
+    "state": "Johor",
+    "registered_electors_2022": "75212",
+    "turnout_votes": "23201",
+    "turnout_pct": "40.81%",
+    "majority_2022": "5758",
+    "mp_2022_name": "Isa Ab Hamid",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Shazwan Zainal Abidin",
+        "party": "PH\u2013DAP",
+        "votes": "15901",
+        "pct": "27.97%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Maslan",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Pontian",
+    "city_region": "Pontian"
+  },
+  {
+    "code": "P165",
+    "name": "Tanjung Piai",
+    "state": "Johor",
+    "registered_electors_2022": "70679",
+    "turnout_votes": "23593",
+    "turnout_pct": "43.22%",
+    "majority_2022": "6360",
+    "mp_2022_name": "Lim Wei Jiet",
+    "mp_2022_party": "MUDA",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Mohamed Farid Md Rafik",
+    "mp_2018_party": "PH-PPBM",
+    "main_town": "Kukup",
+    "city_region": "Pontian"
+  },
+  {
+    "code": "P166",
+    "name": "Labuan",
+    "state": "Federal Territory of Labuan",
+    "registered_electors_2022": "44484",
+    "turnout_votes": "8124",
+    "turnout_pct": "28.56%",
+    "majority_2022": "708",
+    "mp_2022_name": "Suhaili Abdul Rahman",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Rozman Isli",
+        "party": "WARISAN",
+        "votes": "7310",
+        "pct": "25.70%"
+      },
+      {
+        "name": "Ramli Tahir",
+        "party": "PH\u2013AMANAH",
+        "votes": "5307",
+        "pct": "18.65%"
+      }
+    ],
+    "mp_2018_name": "Rozman Isli",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Bandar Labuan",
+    "city_region": "Labuan"
+  },
+  {
+    "code": "P167",
+    "name": "Kudat",
+    "state": "Sabah",
+    "registered_electors_2022": "75724",
+    "turnout_votes": "16323",
+    "turnout_pct": "36.19%",
+    "majority_2022": "1967",
+    "mp_2022_name": "Ruddy Awah",
+    "mp_2022_party": "GRS-BERSATU Sabah",
+    "mp_2022_opponents": [
+      {
+        "name": "Abdul Rashid Abdul Harun",
+        "party": "WARISAN",
+        "votes": "9421",
+        "pct": "20.89%"
+      },
+      {
+        "name": "Thonny Chee",
+        "party": "PH\u2013PKR",
+        "votes": "4726",
+        "pct": "10.48%"
+      }
+    ],
+    "mp_2018_name": "Abdul Rahim Bakri",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kudat",
+    "city_region": "Kudat"
+  },
+  {
+    "code": "P168",
+    "name": "Kota Marudu",
+    "state": "Sabah",
+    "registered_electors_2022": "80735",
+    "turnout_votes": "24318",
+    "turnout_pct": "48.69%",
+    "majority_2022": "8174",
+    "mp_2022_name": "Maximus Ongkili",
+    "mp_2022_party": "GRS-PBS",
+    "mp_2022_opponents": [
+      {
+        "name": "Jilid Kuminding @ Zainuddin",
+        "party": "WARISAN",
+        "votes": "5320",
+        "pct": "10.65%"
+      },
+      {
+        "name": "Norman Tulang",
+        "party": "IND",
+        "votes": "660",
+        "pct": "1.32%"
+      }
+    ],
+    "mp_2018_name": "Maximus Ongkili",
+    "mp_2018_party": "BN-PBS",
+    "main_town": "Kota Marudu",
+    "city_region": "Kota Marudu"
+  },
+  {
+    "code": "P169",
+    "name": "Kota Belud",
+    "state": "Sabah",
+    "registered_electors_2022": "79885",
+    "turnout_votes": "25148",
+    "turnout_pct": "46.54%",
+    "majority_2022": "4582",
+    "mp_2022_name": "Isnaraissah Munirah Majilis @ Fakharudy]]",
+    "mp_2022_party": "WARISAN",
+    "mp_2022_opponents": [
+      {
+        "name": "Madeli @ Modily Bangali",
+        "party": "PH\u2013PKR",
+        "votes": "8323",
+        "pct": "15.40%"
+      }
+    ],
+    "mp_2018_name": "Isnaraissah Munirah Majilis",
+    "mp_2018_party": "WARISAN",
+    "main_town": "Kota Belud",
+    "city_region": "Kota Belud"
+  },
+  {
+    "code": "P170",
+    "name": "Tuaran",
+    "state": "Sabah",
+    "registered_electors_2022": "83419",
+    "turnout_votes": "24943",
+    "turnout_pct": "42.84%",
+    "majority_2022": "233",
+    "mp_2022_name": "Joniston Bangkuai",
+    "mp_2022_party": "GRS-PBS",
+    "mp_2022_opponents": [
+      {
+        "name": "Joanna Rampas",
+        "party": "WARISAN",
+        "votes": "5728",
+        "pct": "9.84%"
+      },
+      {
+        "name": "Noortaip Suhaili @ Sualee",
+        "party": "IND",
+        "votes": "2008",
+        "pct": "3.54%"
+      },
+      {
+        "name": "Boby Lewat",
+        "party": "IND",
+        "votes": "393",
+        "pct": "0.67%"
+      }
+    ],
+    "mp_2018_name": "Wilfred Madius Tangau",
+    "mp_2018_party": "BN-UPKO",
+    "main_town": "Tuaran",
+    "city_region": "Tuaran"
+  },
+  {
+    "code": "P171",
+    "name": "Sepanggar",
+    "state": "Sabah",
+    "registered_electors_2022": "108370",
+    "turnout_votes": "27022",
+    "turnout_pct": "38.44%",
+    "majority_2022": "7042",
+    "mp_2022_name": "Mustapha @ Mohd Yunus Sakmud",
+    "mp_2022_party": "PH-PKR",
+    "mp_2022_opponents": [
+      {
+        "name": "Mohd Azis Jamman]]",
+        "party": "WARISAN",
+        "votes": "18594",
+        "pct": "26.45%"
+      },
+      {
+        "name": "Jumardie Lukman",
+        "party": "KDM",
+        "votes": "3977",
+        "pct": "5.66%"
+      }
+    ],
+    "mp_2018_name": "Azis Jamman",
+    "mp_2018_party": "WARISAN",
+    "main_town": "Sepanggar",
+    "city_region": "Kota Kinabalu"
+  },
+  {
+    "code": "P172",
+    "name": "Kota Kinabalu",
+    "state": "Sabah",
+    "registered_electors_2022": "74059",
+    "turnout_votes": "31359",
+    "turnout_pct": "71.08%",
+    "majority_2022": "23783",
+    "mp_2022_name": "Chan Foong Hin",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "Winston Liew Kit Siong",
+        "party": "KDM",
+        "votes": "456",
+        "pct": "1.03%"
+      },
+      {
+        "name": "Marcel Jude",
+        "party": "IND",
+        "votes": "137",
+        "pct": "0.31%"
+      }
+    ],
+    "mp_2018_name": "Chan Foong Hin",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Kota Kinabalu",
+    "city_region": "Kota Kinabalu"
+  },
+  {
+    "code": "P173",
+    "name": "Putatan",
+    "state": "Sabah",
+    "registered_electors_2022": "63173",
+    "turnout_votes": "16234",
+    "turnout_pct": "39.36%",
+    "majority_2022": "124",
+    "mp_2022_name": "Shahelmey Yahya",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [
+      {
+        "name": "Ahmad Mohd Said",
+        "party": "WARISAN",
+        "votes": "8511",
+        "pct": "20.63%"
+      }
+    ],
+    "mp_2018_name": "Awang Husaini Sahari",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Putatan",
+    "city_region": "Putatan"
+  },
+  {
+    "code": "P174",
+    "name": "Penampang",
+    "state": "Sabah",
+    "registered_electors_2022": "77214",
+    "turnout_votes": "29066",
+    "turnout_pct": "57.30%",
+    "majority_2022": "14410",
+    "mp_2022_name": "Ewon Benedick",
+    "mp_2022_party": "PH-UPKO",
+    "mp_2022_opponents": [
+      {
+        "name": "Richard Jimmy",
+        "party": "IND",
+        "votes": "289",
+        "pct": "0.57%"
+      }
+    ],
+    "mp_2018_name": "Ignatius Dorell Leiking",
+    "mp_2018_party": "WARISAN",
+    "main_town": "Penampang",
+    "city_region": "Penampang"
+  },
+  {
+    "code": "P175",
+    "name": "Papar",
+    "state": "Sabah",
+    "registered_electors_2022": "59942",
+    "turnout_votes": "22620",
+    "turnout_pct": "51.99%",
+    "majority_2022": "12224",
+    "mp_2022_name": "Armizan Mohd Ali",
+    "mp_2022_party": "GRS-BERSATU Sabah",
+    "mp_2022_opponents": [
+      {
+        "name": "Henry Shim Chee On",
+        "party": "PH\u2013DAP",
+        "votes": "9144",
+        "pct": "21.02%"
+      },
+      {
+        "name": "Johnny Sitamin",
+        "party": "IND",
+        "votes": "335",
+        "pct": "0.77%"
+      },
+      {
+        "name": "Norbert Chin",
+        "party": "IND",
+        "votes": "231",
+        "pct": "0.53%"
+      }
+    ],
+    "mp_2018_name": "Ahmad Hassan (Malaysian politician)",
+    "mp_2018_party": "WARISAN",
+    "main_town": "Papar",
+    "city_region": "Papar"
+  },
+  {
+    "code": "P176",
+    "name": "Kimanis",
+    "state": "Sabah",
+    "registered_electors_2022": "40763",
+    "turnout_votes": "13004",
+    "turnout_pct": "41.86%",
+    "majority_2022": "3037",
+    "mp_2022_name": "Mohamad Alamin",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [
+      {
+        "name": "Amat Mohd Yusof",
+        "party": "KDM",
+        "votes": "4013",
+        "pct": "12.92%"
+      },
+      {
+        "name": "Rowindy Lawrence Odong",
+        "party": "PH\u2013UPKO",
+        "votes": "3931",
+        "pct": "12.65%"
+      }
+    ],
+    "mp_2018_name": "Anifah Aman",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kimanis",
+    "city_region": "Kimanis"
+  },
+  {
+    "code": "P177",
+    "name": "Beaufort",
+    "state": "Sabah",
+    "registered_electors_2022": "43248",
+    "turnout_votes": "10570",
+    "turnout_pct": "36.08%",
+    "majority_2022": "2518",
+    "mp_2022_name": "Azizah Mohd Dun",
+    "mp_2022_party": "GRS-BERSATU Sabah",
+    "mp_2022_opponents": [
+      {
+        "name": "Dikin Musah",
+        "party": "PH\u2013PKR",
+        "votes": "7835",
+        "pct": "26.74%"
+      },
+      {
+        "name": "Masri Adul",
+        "party": "WARISAN",
+        "votes": "2152",
+        "pct": "7.35%"
+      },
+      {
+        "name": "Johan @ Christopher O T Ghani",
+        "party": "IND",
+        "votes": "546",
+        "pct": "1.86%"
+      },
+      {
+        "name": "Matlani Sabli",
+        "party": "IND",
+        "votes": "143",
+        "pct": "0.49%"
+      }
+    ],
+    "mp_2018_name": "Azizah Mohd Dun",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Beaufort",
+    "city_region": "Beaufort"
+  },
+  {
+    "code": "P178",
+    "name": "Sipitang",
+    "state": "Sabah",
+    "registered_electors_2022": "45871",
+    "turnout_votes": "14459",
+    "turnout_pct": "49.75%",
+    "majority_2022": "4691",
+    "mp_2022_name": "Matbali Musah",
+    "mp_2022_party": "GRS-BERSATU Sabah",
+    "mp_2022_opponents": [
+      {
+        "name": "Lahirul Latigul",
+        "party": "PH\u2013AMANAH",
+        "votes": "4834",
+        "pct": "16.63%"
+      }
+    ],
+    "mp_2018_name": "Yamani Hafez Musa",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Sipitang",
+    "city_region": "Sipitang"
+  },
+  {
+    "code": "P179",
+    "name": "Ranau",
+    "state": "Sabah",
+    "registered_electors_2022": "66517",
+    "turnout_votes": "22606",
+    "turnout_pct": "53.44%",
+    "majority_2022": "11092",
+    "mp_2022_name": "Jonathan Yasin",
+    "mp_2022_party": "GRS-BERSATU Sabah",
+    "mp_2022_opponents": [
+      {
+        "name": "Ewon Ebin",
+        "party": "BN\u2013PBRS",
+        "votes": "4254",
+        "pct": "10.06%"
+      },
+      {
+        "name": "Markos Siton",
+        "party": "WARISAN",
+        "votes": "2657",
+        "pct": "6.28%"
+      }
+    ],
+    "mp_2018_name": "Jonathan Yasin",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Ranau",
+    "city_region": "Ranau"
+  },
+  {
+    "code": "P180",
+    "name": "Keningau",
+    "state": "Sabah",
+    "registered_electors_2022": "87588",
+    "turnout_votes": "23155",
+    "turnout_pct": "42.20%",
+    "majority_2022": "8056",
+    "mp_2022_name": "Jeffrey Kitingan",
+    "mp_2022_party": "GRS-STAR",
+    "mp_2022_opponents": [
+      {
+        "name": "Jake Nointin",
+        "party": "KDM",
+        "votes": "9598",
+        "pct": "17.49%"
+      },
+      {
+        "name": "Rasinin Kautis",
+        "party": "WARISAN",
+        "votes": "7020",
+        "pct": "12.79%"
+      }
+    ],
+    "mp_2018_name": "Jeffrey Kitingan",
+    "mp_2018_party": "USA-STAR",
+    "main_town": "Keningau",
+    "city_region": "Keningau"
+  },
+  {
+    "code": "P181",
+    "name": "Tenom",
+    "state": "Sabah",
+    "registered_electors_2022": "42045",
+    "turnout_votes": "10027",
+    "turnout_pct": "35.00%",
+    "majority_2022": "1108",
+    "mp_2022_name": "Riduan Rubin",
+    "mp_2022_party": "IND",
+    "mp_2022_opponents": [
+      {
+        "name": "Jamawi Ja'afar",
+        "party": "BN\u2013UMNO",
+        "votes": "8625",
+        "pct": "30.11%"
+      },
+      {
+        "name": "Ukim Buandi",
+        "party": "WARISAN",
+        "votes": "992",
+        "pct": "3.46%"
+      },
+      {
+        "name": "Peggy Chaw Zhi Ting",
+        "party": "IND",
+        "votes": "86",
+        "pct": "0.30%"
+      }
+    ],
+    "mp_2018_name": "Noorita Sual",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Tenom",
+    "city_region": "Tenom"
+  },
+  {
+    "code": "P182",
+    "name": "Pensiangan",
+    "state": "Sabah",
+    "registered_electors_2022": "55672",
+    "turnout_votes": "19623",
+    "turnout_pct": "52.88%",
+    "majority_2022": "5412",
+    "mp_2022_name": "Arthur Joseph Kurup",
+    "mp_2022_party": "BN-PBRS",
+    "mp_2022_opponents": [
+      {
+        "name": "Jekerison Kilan",
+        "party": "KDM",
+        "votes": "1640",
+        "pct": "4.42%"
+      },
+      {
+        "name": "Siti Noorhasmahwatty Osman",
+        "party": "WARISAN",
+        "votes": "1512",
+        "pct": "4.07%"
+      }
+    ],
+    "mp_2018_name": "Arthur Joseph Kurup",
+    "mp_2018_party": "BN-PBRS",
+    "main_town": "Nabawan",
+    "city_region": "Pensiangan"
+  },
+  {
+    "code": "P183",
+    "name": "Beluran",
+    "state": "Sabah",
+    "registered_electors_2022": "44727",
+    "turnout_votes": "11303",
+    "turnout_pct": "38.53%",
+    "majority_2022": "1594",
+    "mp_2022_name": "Ronald Kiandee",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Felix Joseph Saang",
+        "party": "PH\u2013UPKO",
+        "votes": "4460",
+        "pct": "15.20%"
+      },
+      {
+        "name": "Rowiena Rashid",
+        "party": "WARISAN",
+        "votes": "3707",
+        "pct": "12.64%"
+      }
+    ],
+    "mp_2018_name": "Ronald Kiandee",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Beluran",
+    "city_region": "Beluran"
+  },
+  {
+    "code": "P184",
+    "name": "Libaran",
+    "state": "Sabah",
+    "registered_electors_2022": "72332",
+    "turnout_votes": "22969",
+    "turnout_pct": "51.58%",
+    "majority_2022": "12618",
+    "mp_2022_name": "Zakaria Edris",
+    "mp_2022_party": "GRS-BERSATU Sabah",
+    "mp_2022_opponents": [
+      {
+        "name": "SH Bokrata SH Hassan",
+        "party": "WARISAN",
+        "votes": "9185",
+        "pct": "20.63%"
+      },
+      {
+        "name": "Amdan Tumpong",
+        "party": "IND",
+        "votes": "659",
+        "pct": "1.48%"
+      },
+      {
+        "name": "Nordin Khani",
+        "party": "PPRS",
+        "votes": "541",
+        "pct": "1.21%"
+      }
+    ],
+    "mp_2018_name": "Zakaria Edris",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Sandakan",
+    "city_region": "Sandakan"
+  },
+  {
+    "code": "P185",
+    "name": "Batu Sapi",
+    "state": "Sabah",
+    "registered_electors_2022": "43916",
+    "turnout_votes": "12152",
+    "turnout_pct": "44.95%",
+    "majority_2022": "4821",
+    "mp_2022_name": "Khairul Firdaus Akbar Khan",
+    "mp_2022_party": "GRS-BERSATU Sabah",
+    "mp_2022_opponents": [
+      {
+        "name": "Alias Sani",
+        "party": "WARISAN",
+        "votes": "7218",
+        "pct": "26.70%"
+      },
+      {
+        "name": "Othman Ahmad",
+        "party": "IND",
+        "votes": "160",
+        "pct": "0.59%"
+      }
+    ],
+    "mp_2018_name": "Liew Vui Keong",
+    "mp_2018_party": "WARISAN",
+    "main_town": "Sandakan",
+    "city_region": "Sandakan"
+  },
+  {
+    "code": "P186",
+    "name": "Sandakan",
+    "state": "Sabah",
+    "registered_electors_2022": "55542",
+    "turnout_votes": "16673",
+    "turnout_pct": "53.92%",
+    "majority_2022": "11031",
+    "mp_2022_name": "Vivian Wong Shir Yee",
+    "mp_2022_party": "PH-DAP",
+    "mp_2022_opponents": [
+      {
+        "name": "Peter Hii",
+        "party": "IND",
+        "votes": "2342",
+        "pct": "7.57%"
+      },
+      {
+        "name": "Syeikh Lokeman",
+        "party": "IND",
+        "votes": "962",
+        "pct": "3.11%"
+      },
+      {
+        "name": "Lita Tan Abdullah",
+        "party": "IND",
+        "votes": "246",
+        "pct": "0.80%"
+      }
+    ],
+    "mp_2018_name": "Wong Tien Fatt",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Sandakan",
+    "city_region": "Sandakan"
+  },
+  {
+    "code": "P187",
+    "name": "Kinabatangan",
+    "state": "Sabah",
+    "registered_electors_2022": "44773",
+    "turnout_votes": "16842",
+    "turnout_pct": "57.38%",
+    "majority_2022": "4330",
+    "mp_2022_name": "Bung Mokhtar Radin",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Bung Moktar Radin",
+    "mp_2018_party": "BN-UMNO",
+    "main_town": "Kinabatangan",
+    "city_region": "Kinabatangan"
+  },
+  {
+    "code": "P188",
+    "name": "Lahad Datu",
+    "state": "Sabah",
+    "registered_electors_2022": "100256",
+    "turnout_votes": "27116",
+    "turnout_pct": "46.64%",
+    "majority_2022": "4376",
+    "mp_2022_name": "Mohamaddin Ketapi",
+    "mp_2022_party": "PBM",
+    "mp_2022_opponents": [
+      {
+        "name": "Oscar Sia Yu Hock",
+        "party": "PH\u2013DAP",
+        "votes": "8289",
+        "pct": "14.26%"
+      }
+    ],
+    "mp_2018_name": "Mohammadin Ketapi",
+    "mp_2018_party": "WARISAN",
+    "main_town": "Lahad Datu",
+    "city_region": "Lahad Datu"
+  },
+  {
+    "code": "P189",
+    "name": "Semporna",
+    "state": "Sabah",
+    "registered_electors_2022": "72169",
+    "turnout_votes": "28702",
+    "turnout_pct": "73.77%",
+    "majority_2022": "20810",
+    "mp_2022_name": "Nixon Abdul Habi",
+    "mp_2022_party": "GRS-BERSATU Sabah",
+    "mp_2022_opponents": [
+      {
+        "name": "Arastam Paradong",
+        "party": "PH\u2013PKR",
+        "votes": "1848",
+        "pct": "4.75%"
+      }
+    ],
+    "mp_2018_name": "Shafie Apdal",
+    "mp_2018_party": "WARISAN",
+    "main_town": "Semporna",
+    "city_region": "Semporna"
+  },
+  {
+    "code": "P190",
+    "name": "Tawau",
+    "state": "Sabah",
+    "registered_electors_2022": "87477",
+    "turnout_votes": "19865",
+    "turnout_pct": "39.19%",
+    "majority_2022": "3860",
+    "mp_2022_name": "Lo Su Fui",
+    "mp_2022_party": "GRS-PBS",
+    "mp_2022_opponents": [
+      {
+        "name": "Chen Ket Chuin",
+        "party": "WARISAN",
+        "votes": "11263",
+        "pct": "22.22%"
+      },
+      {
+        "name": "Mohd Salleh Bacho",
+        "party": "IND",
+        "votes": "1776",
+        "pct": "3.50%"
+      },
+      {
+        "name": "Chin Chee Syn",
+        "party": "IND",
+        "votes": "651",
+        "pct": "1.28%"
+      }
+    ],
+    "mp_2018_name": "Christina Liew",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Tawau",
+    "city_region": "Tawau"
+  },
+  {
+    "code": "P191",
+    "name": "Kalabakan",
+    "state": "Sabah",
+    "registered_electors_2022": "83970",
+    "turnout_votes": "23855",
+    "turnout_pct": "47.68%",
+    "majority_2022": "9100",
+    "mp_2022_name": "Andi Muhammad Suryady Bandy",
+    "mp_2022_party": "BN-UMNO",
+    "mp_2022_opponents": [
+      {
+        "name": "Noraini Abd Ghapur",
+        "party": "PH\u2013PKR",
+        "votes": "9398",
+        "pct": "18.78%"
+      },
+      {
+        "name": "Muhamad Dhiauddin Hassan",
+        "party": "IND",
+        "votes": "341",
+        "pct": "0.68%"
+      }
+    ],
+    "mp_2018_name": "Ma'mun Sulaiman",
+    "mp_2018_party": "WARISAN",
+    "main_town": "Kalabakan",
+    "city_region": "Tawau"
+  },
+  {
+    "code": "P192",
+    "name": "Mas Gading",
+    "state": "Sarawak",
+    "registered_electors_2022": "47171",
+    "turnout_votes": "17274",
+    "turnout_pct": "55.05%",
+    "majority_2022": "5480",
+    "mp_2022_name": "Lidang Disen",
+    "mp_2022_party": "GPS-SUPP",
+    "mp_2022_opponents": [
+      {
+        "name": "Ryan Sim Min Leong",
+        "party": "PERKASA\u2013PBK",
+        "votes": "2311",
+        "pct": "7.36%"
+      }
+    ],
+    "mp_2018_name": "Mordi Bimol",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Bau",
+    "city_region": "Kuching"
+  },
+  {
+    "code": "P193",
+    "name": "Santubong",
+    "state": "Sarawak",
+    "registered_electors_2022": "79540",
+    "turnout_votes": "43739",
+    "turnout_pct": "84.42%",
+    "majority_2022": "38681",
+    "mp_2022_name": "Nancy Shukri",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [
+      {
+        "name": "Affendi Jeman",
+        "party": "IND",
+        "votes": "3012",
+        "pct": "5.81%"
+      }
+    ],
+    "mp_2018_name": "Wan Junaidi Tuanku Jaafar",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Santubong",
+    "city_region": "Kuching"
+  },
+  {
+    "code": "P194",
+    "name": "Petra Jaya",
+    "state": "Sarawak",
+    "registered_electors_2022": "109809",
+    "turnout_votes": "54745",
+    "turnout_pct": "79.15%",
+    "majority_2022": "41363",
+    "mp_2022_name": "Fadillah Yusof",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [
+      {
+        "name": "Othman Abdillah",
+        "party": "SEDAR",
+        "votes": "1036",
+        "pct": "1.50%"
+      }
+    ],
+    "mp_2018_name": "Fadillah Yusof",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Petra Jaya",
+    "city_region": "Kuching"
+  },
+  {
+    "code": "P195",
+    "name": "Bandar Kuching",
+    "state": "Sarawak",
+    "registered_electors_2022": "109710",
+    "turnout_votes": "45353",
+    "turnout_pct": "71.34%",
+    "majority_2022": "28891",
+    "mp_2022_name": "Tay Tze Kok",
+    "mp_2022_party": "GPS-SUPP",
+    "mp_2022_opponents": [
+      {
+        "name": "Voon Lee Shan",
+        "party": "PERKASA\u2013PBK",
+        "votes": "1760",
+        "pct": "2.77%"
+      }
+    ],
+    "mp_2018_name": "Kelvin Yii Lee Wuen",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Kuching",
+    "city_region": "Kuching"
+  },
+  {
+    "code": "P196",
+    "name": "Stampin",
+    "state": "Sarawak",
+    "registered_electors_2022": "121009",
+    "turnout_votes": "39310",
+    "turnout_pct": "53.30%",
+    "majority_2022": "7158",
+    "mp_2022_name": "Lo Khere Chiang",
+    "mp_2022_party": "GPS-SUPP",
+    "mp_2022_opponents": [
+      {
+        "name": "Lue Cheng Hing",
+        "party": "PERKASA\u2013PBK",
+        "votes": "2291",
+        "pct": "3.11%"
+      }
+    ],
+    "mp_2018_name": "Chong Chieng Jen",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Stampin",
+    "city_region": "Kuching"
+  },
+  {
+    "code": "P197",
+    "name": "Kota Samarahan",
+    "state": "Sarawak",
+    "registered_electors_2022": "82229",
+    "turnout_votes": "42278",
+    "turnout_pct": "76.71%",
+    "majority_2022": "29445",
+    "mp_2022_name": "Rubiah Wang",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Rubiah Wang",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Kota Samarahan",
+    "city_region": "Kota Samarahan"
+  },
+  {
+    "code": "P198",
+    "name": "Puncak Borneo",
+    "state": "Sarawak",
+    "registered_electors_2022": "79969",
+    "turnout_votes": "29457",
+    "turnout_pct": "57.58%",
+    "majority_2022": "13338",
+    "mp_2022_name": "Willie Mongin",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [
+      {
+        "name": "Iana Akam",
+        "party": "PERKASA\u2013PSB",
+        "votes": "5578",
+        "pct": "10.90%"
+      }
+    ],
+    "mp_2018_name": "Willie Mongin",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Serian",
+    "city_region": "Serian"
+  },
+  {
+    "code": "P199",
+    "name": "Serian",
+    "state": "Sarawak",
+    "registered_electors_2022": "65273",
+    "turnout_votes": "22876",
+    "turnout_pct": "57.23%",
+    "majority_2022": "16697",
+    "mp_2022_name": "Richard Riot Jaem",
+    "mp_2022_party": "GPS-SUPP",
+    "mp_2022_opponents": [
+      {
+        "name": "Elsiy Tinggang",
+        "party": "PERKASA\u2013PSB",
+        "votes": "5630",
+        "pct": "14.08%"
+      }
+    ],
+    "mp_2018_name": "Richard Riot Jaem",
+    "mp_2018_party": "BN-SUPP",
+    "main_town": "Siburan",
+    "city_region": "Siburan"
+  },
+  {
+    "code": "P200",
+    "name": "Batang Sadong",
+    "state": "Sarawak",
+    "registered_electors_2022": "32640",
+    "turnout_votes": "18668",
+    "turnout_pct": "83.18%",
+    "majority_2022": "14893",
+    "mp_2022_name": "Rodiyah Sapiee",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Nancy Shukri",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Simunjan",
+    "city_region": "Serian"
+  },
+  {
+    "code": "P201",
+    "name": "Batang Lupar",
+    "state": "Sarawak",
+    "registered_electors_2022": "43072",
+    "turnout_votes": "19627",
+    "turnout_pct": "71.22%",
+    "majority_2022": "14463",
+    "mp_2022_name": "Rohani Abdul Karim",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [
+      {
+        "name": "Wel @ Maxwell Rojis",
+        "party": "PH\u2013AMANAH",
+        "votes": "2768",
+        "pct": "10.04%"
+      }
+    ],
+    "mp_2018_name": "Rohani Abdul Karim",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Sri Aman",
+    "city_region": "Sri Aman"
+  },
+  {
+    "code": "P202",
+    "name": "Sri Aman",
+    "state": "Sarawak",
+    "registered_electors_2022": "50164",
+    "turnout_votes": "14131",
+    "turnout_pct": "44.27%",
+    "majority_2022": "4039",
+    "mp_2022_name": "Doris Sophia Brodi",
+    "mp_2022_party": "GPS-PRS",
+    "mp_2022_opponents": [
+      {
+        "name": "Masir Kujat",
+        "party": "IND",
+        "votes": "5673",
+        "pct": "17.77%"
+      },
+      {
+        "name": "Tay Wei Wei",
+        "party": "PH\u2013PKR",
+        "votes": "2021",
+        "pct": "6.33%"
+      }
+    ],
+    "mp_2018_name": "Masir Kujat",
+    "mp_2018_party": "BN-PRS",
+    "main_town": "Sri Aman",
+    "city_region": "Sri Aman"
+  },
+  {
+    "code": "P203",
+    "name": "Lubok Antu",
+    "state": "Sarawak",
+    "registered_electors_2022": "28995",
+    "turnout_votes": "6644",
+    "turnout_pct": "34.44%",
+    "majority_2022": "100",
+    "mp_2022_name": "Roy Angau Gingkoi",
+    "mp_2022_party": "GPS-PRS",
+    "mp_2022_opponents": [
+      {
+        "name": "Langga Lias",
+        "party": "PH\u2013PKR",
+        "votes": "746",
+        "pct": "3.87%"
+      }
+    ],
+    "mp_2018_name": "Jugah Muyang",
+    "mp_2018_party": "IND",
+    "main_town": "Lubok Antu",
+    "city_region": "Lubok Antu"
+  },
+  {
+    "code": "P204",
+    "name": "Betong",
+    "state": "Sarawak",
+    "registered_electors_2022": "41743",
+    "turnout_votes": "16479",
+    "turnout_pct": "61.69%",
+    "majority_2022": "11302",
+    "mp_2022_name": "Robert Lawson Chuat",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [
+      {
+        "name": "Hasbie Satar",
+        "party": "IND",
+        "votes": "5057",
+        "pct": "18.93%"
+      }
+    ],
+    "mp_2018_name": "Robert Lawson Chuat Vincent Entering",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Betong",
+    "city_region": "Betong"
+  },
+  {
+    "code": "P205",
+    "name": "Saratok",
+    "state": "Sarawak",
+    "registered_electors_2022": "44531",
+    "turnout_votes": "19233",
+    "turnout_pct": "62.33%",
+    "majority_2022": "8826",
+    "mp_2022_name": "Ali Biju",
+    "mp_2022_party": "PN-BERSATU",
+    "mp_2022_opponents": [
+      {
+        "name": "Ibil Jaya",
+        "party": "PH\u2013PKR",
+        "votes": "1221",
+        "pct": "3.96%"
+      }
+    ],
+    "mp_2018_name": "Ali Biju",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Saratok",
+    "city_region": "Saratok"
+  },
+  {
+    "code": "P206",
+    "name": "Tanjong Manis",
+    "state": "Sarawak",
+    "registered_electors_2022": "32948",
+    "turnout_votes": "16474",
+    "turnout_pct": "86.52%",
+    "majority_2022": "13908",
+    "mp_2022_name": "Yusuf Abd. Wahab",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Yusuf Abd. Wahab",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Tanjong Manis",
+    "city_region": "Mukah"
+  },
+  {
+    "code": "P207",
+    "name": "Igan",
+    "state": "Sarawak",
+    "registered_electors_2022": "28290",
+    "turnout_votes": "15824",
+    "turnout_pct": "93.16%",
+    "majority_2022": "14662",
+    "mp_2022_name": "Ahmad Johnie Zawawi",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Ahmad Johnie Zawawi",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Mukah",
+    "city_region": "Mukah"
+  },
+  {
+    "code": "P208",
+    "name": "Sarikei",
+    "state": "Sarawak",
+    "registered_electors_2022": "55018",
+    "turnout_votes": "20080",
+    "turnout_pct": "55.07%",
+    "majority_2022": "3697",
+    "mp_2022_name": "Huang Tiong Sii",
+    "mp_2022_party": "GPS-SUPP",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Wong Ling Biu",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Sarikei",
+    "city_region": "Sarikei"
+  },
+  {
+    "code": "P209",
+    "name": "Julau",
+    "state": "Sarawak",
+    "registered_electors_2022": "34850",
+    "turnout_votes": "9159",
+    "turnout_pct": "40.64%",
+    "majority_2022": "1340",
+    "mp_2022_name": "Larry Sng Wei Shien",
+    "mp_2022_party": "PBM",
+    "mp_2022_opponents": [
+      {
+        "name": "Elly Lawai Ngalai",
+        "party": "IND",
+        "votes": "5224",
+        "pct": "23.18%"
+      },
+      {
+        "name": "Susan George",
+        "party": "PERKASA\u2013PBDS",
+        "votes": "335",
+        "pct": "1.49%"
+      }
+    ],
+    "mp_2018_name": "Larry Sng Wei Shien",
+    "mp_2018_party": "IND",
+    "main_town": "Julau",
+    "city_region": "Julau"
+  },
+  {
+    "code": "P210",
+    "name": "Kanowit",
+    "state": "Sarawak",
+    "registered_electors_2022": "30988",
+    "turnout_votes": "7411",
+    "turnout_pct": "41.07%",
+    "majority_2022": "236",
+    "mp_2022_name": "Aaron Ago Dagang",
+    "mp_2022_party": "GPS-PRS",
+    "mp_2022_opponents": [
+      {
+        "name": "Michael Lias",
+        "party": "IND",
+        "votes": "2289",
+        "pct": "12.69%"
+      },
+      {
+        "name": "George Chen",
+        "party": "IND",
+        "votes": "741",
+        "pct": "4.11%"
+      },
+      {
+        "name": "Elli Luhat",
+        "party": "IND",
+        "votes": "427",
+        "pct": "2.37%"
+      }
+    ],
+    "mp_2018_name": "Aaron Ago Dagang",
+    "mp_2018_party": "BN-PRS",
+    "main_town": "Kanowit",
+    "city_region": "Kanowit"
+  },
+  {
+    "code": "P211",
+    "name": "Lanang",
+    "state": "Sarawak",
+    "registered_electors_2022": "87356",
+    "turnout_votes": "30120",
+    "turnout_pct": "56.89%",
+    "majority_2022": "11544",
+    "mp_2022_name": "Wong Ching Yong",
+    "mp_2022_party": "GPS-SUPP",
+    "mp_2022_opponents": [
+      {
+        "name": "Priscilla Lau",
+        "party": "PERKASA\u2013PBK",
+        "votes": "3663",
+        "pct": "6.92%"
+      },
+      {
+        "name": "Wong Tiing Kiong",
+        "party": "IND",
+        "votes": "587",
+        "pct": "1.11%"
+      }
+    ],
+    "mp_2018_name": "Alice Lau Kiong Yieng",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Sibu",
+    "city_region": "Sibu"
+  },
+  {
+    "code": "P212",
+    "name": "Sibu",
+    "state": "Sarawak",
+    "registered_electors_2022": "105875",
+    "turnout_votes": "31827",
+    "turnout_pct": "47.45%",
+    "majority_2022": "7760",
+    "mp_2022_name": "Clarence Ting Ing Horh",
+    "mp_2022_party": "GPS-SUPP",
+    "mp_2022_opponents": [
+      {
+        "name": "Wong Soon Koh",
+        "party": "PERKASA\u2013PSB",
+        "votes": "11128",
+        "pct": "16.88%"
+      }
+    ],
+    "mp_2018_name": "Oscar Ling Chai Yew",
+    "mp_2018_party": "PH-DAP",
+    "main_town": "Sibu",
+    "city_region": "Sibu"
+  },
+  {
+    "code": "P213",
+    "name": "Mukah",
+    "state": "Sarawak",
+    "registered_electors_2022": "46964",
+    "turnout_votes": "21733",
+    "turnout_pct": "78.23%",
+    "majority_2022": "15686",
+    "mp_2022_name": "Hanifah Hajar Taib",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Hanifah Hajar Taib",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Mukah",
+    "city_region": "Mukah"
+  },
+  {
+    "code": "P214",
+    "name": "Selangau",
+    "state": "Sarawak",
+    "registered_electors_2022": "45743",
+    "turnout_votes": "16078",
+    "turnout_pct": "55.83%",
+    "majority_2022": "4986",
+    "mp_2022_name": "Edwin Banta",
+    "mp_2022_party": "GPS-PRS",
+    "mp_2022_opponents": [
+      {
+        "name": "Henry Joseph Usau",
+        "party": "IND",
+        "votes": "1626",
+        "pct": "5.65%"
+      }
+    ],
+    "mp_2018_name": "Baru Bian",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Selangau",
+    "city_region": "Selangau"
+  },
+  {
+    "code": "P215",
+    "name": "Kapit",
+    "state": "Sarawak",
+    "registered_electors_2022": "45210",
+    "turnout_votes": "16522",
+    "turnout_pct": "75.10%",
+    "majority_2022": "12402",
+    "mp_2022_name": "Alexander Nanta Linggi",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [
+      {
+        "name": "Robert Saweng",
+        "party": "PERKASA\u2013PBDS",
+        "votes": "1357",
+        "pct": "6.17%"
+      }
+    ],
+    "mp_2018_name": "Alexander Nanta Linggi",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Kapit",
+    "city_region": "Kapit"
+  },
+  {
+    "code": "P216",
+    "name": "Hulu Rajang",
+    "state": "Sarawak",
+    "registered_electors_2022": "43438",
+    "turnout_votes": "15456",
+    "turnout_pct": "66.03%",
+    "majority_2022": "7505",
+    "mp_2022_name": "Wilson Ugak Kumbong",
+    "mp_2022_party": "GPS-PRS",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Wilson Ugak Kumbong",
+    "mp_2018_party": "BN-PRS",
+    "main_town": "Belaga",
+    "city_region": "Kapit"
+  },
+  {
+    "code": "P217",
+    "name": "Bintulu",
+    "state": "Sarawak",
+    "registered_electors_2022": "113599",
+    "turnout_votes": "43455",
+    "turnout_pct": "61.73%",
+    "majority_2022": "22168",
+    "mp_2022_name": "Tiong King Sing",
+    "mp_2022_party": "GPS-PDP",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Tiong King Sing",
+    "mp_2018_party": "BN-PDP",
+    "main_town": "Bintulu",
+    "city_region": "Bintulu"
+  },
+  {
+    "code": "P218",
+    "name": "Sibuti",
+    "state": "Sarawak",
+    "registered_electors_2022": "58522",
+    "turnout_votes": "22150",
+    "turnout_pct": "65.31%",
+    "majority_2022": "11745",
+    "mp_2022_name": "Lukanisman Awang Sauni",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [
+      {
+        "name": "Bobby William",
+        "party": "PERKASA\u2013PBDS",
+        "votes": "1361",
+        "pct": "4.01%"
+      }
+    ],
+    "mp_2018_name": "Lukanisman Awang Sauni",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Bekenu",
+    "city_region": "Miri"
+  },
+  {
+    "code": "P219",
+    "name": "Miri",
+    "state": "Sarawak",
+    "registered_electors_2022": "143229",
+    "turnout_votes": "39549",
+    "turnout_pct": "50.61%",
+    "majority_2022": "6159",
+    "mp_2022_name": "Jeffery Phang Siaw Foong",
+    "mp_2022_party": "GPS-SUPP",
+    "mp_2022_opponents": [
+      {
+        "name": "Lawrance Lai",
+        "party": "PERKASA\u2013PSB",
+        "votes": "5209",
+        "pct": "6.67%"
+      }
+    ],
+    "mp_2018_name": "Michael Teo Yu Keng",
+    "mp_2018_party": "PH-PKR",
+    "main_town": "Miri",
+    "city_region": "Miri"
+  },
+  {
+    "code": "P220",
+    "name": "Baram",
+    "state": "Sarawak",
+    "registered_electors_2022": "59535",
+    "turnout_votes": "18399",
+    "turnout_pct": "61.78%",
+    "majority_2022": "7339",
+    "mp_2022_name": "Anyi Ngau",
+    "mp_2022_party": "GPS-PDP",
+    "mp_2022_opponents": [
+      {
+        "name": "Wilfred Entika",
+        "party": "IND",
+        "votes": "324",
+        "pct": "1.09%"
+      }
+    ],
+    "mp_2018_name": "Anyi Ngau",
+    "mp_2018_party": "BN-PDP",
+    "main_town": "Marudi",
+    "city_region": "Marudi"
+  },
+  {
+    "code": "P221",
+    "name": "Limbang",
+    "state": "Sarawak",
+    "registered_electors_2022": "41999",
+    "turnout_votes": "14897",
+    "turnout_pct": "75.25%",
+    "majority_2022": "9998",
+    "mp_2022_name": "Hasbi Habibollah",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [],
+    "mp_2018_name": "Hasbi Habibollah",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Limbang",
+    "city_region": "Limbang"
+  },
+  {
+    "code": "P222",
+    "name": "Lawas",
+    "state": "Sarawak",
+    "registered_electors_2022": "33655",
+    "turnout_votes": "11361",
+    "turnout_pct": "62.40%",
+    "majority_2022": "5677",
+    "mp_2022_name": "Henry Sum Agong",
+    "mp_2022_party": "GPS-PBB",
+    "mp_2022_opponents": [
+      {
+        "name": "Japar Suyut",
+        "party": "PH\u2013PKR",
+        "votes": "1163",
+        "pct": "6.39%"
+      }
+    ],
+    "mp_2018_name": "Henry Sum Agong",
+    "mp_2018_party": "BN-PBB",
+    "main_town": "Lawas",
+    "city_region": "Lawas"
+  }
+]
