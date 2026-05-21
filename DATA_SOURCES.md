@@ -1,4 +1,4 @@
-# Data Sources — Malaysia Parliament Seats
+# Data Sources — Malaysia Parliament Seats (4 Elections)
 
 This document traces the provenance of every data field in
 `parliament_full_data.json`, following the SPR data citation chain to ground
@@ -22,19 +22,44 @@ truth wherever possible.
 
 | Field | Source | Tier | Notes |
 |-------|--------|------|-------|
-| `mp_2022_name` | Wikipedia: "Results of the 2022 Malaysian general election by parliamentary constituency" | **Secondary** | Scraped from rendered Wikitext. Underlying data likely compiled from news reports; this specific page does **not** directly cite SPR |
-| `mp_2022_party` | Same Wikipedia page | **Secondary** | Party+coalition extracted from table rows |
-| `registered_electors` | Same Wikipedia page | **Secondary** | "Registered electors" column from tables |
-| `votes` | Same Wikipedia page | **Secondary** | Votes won by the winning candidate |
-| `majority` | Same Wikipedia page | **Secondary** | Winning majority |
-| `turnout` | Same Wikipedia page | **Secondary** | Voter turnout % |
+| `pru15.winner` | Wikipedia: "Results of the 2022 Malaysian general election by parliamentary constituency" | **Secondary** | Scraped from rendered Wikitext. |
+| `pru15.party` | Same Wikipedia page | **Secondary** | Party+coalition extracted from table rows |
+| `pru15.votes` | Same Wikipedia page | **Secondary** | Votes won by the winning candidate |
+| `pru15.majority` | Same Wikipedia page | **Secondary** | Winning majority |
+| `pru15.electors` | Same Wikipedia page | **Secondary** | Registered electors |
+| `pru15.turnout_pct` | Same Wikipedia page | **Secondary** | Voter turnout % |
 
 #### GE14 (2018)
 
 | Field | Source | Tier | Notes |
 |-------|--------|------|-------|
-| `mp_2018_name` | Pre-existing data file (`ge14_results.json`, provenance unclear) | **Secondary** | Likely derived from Wikipedia or SPR publications; no vote figures available |
-| `mp_2018_party` | Same file | **Secondary** | |
+| `pru14.winner` | SPR (data.gov.my) — official open data CSV | **Primary** | Downloaded from data.gov.my `ge14_parlimen` dataset |
+| `pru14.party` | Wikipedia (cross-referenced) | **Secondary** | **Important:** SPR CSV records ALL PH winners as "PKR" in Peninsular Malaysia, lumping DAP, PKR, PPBM, and AMANAH together. The actual component party is resolved from Wikipedia data. |
+| `pru14.votes` | SPR CSV | **Primary** | Winning candidate vote count |
+| `pru14.majority` | SPR CSV (computed) | **Primary** | Winner votes − runner-up votes |
+| `pru14.total_valid_votes` | SPR CSV (computed) | **Primary** | Sum of all candidate votes |
+
+#### GE13 (2013)
+
+| Field | Source | Tier | Notes |
+|-------|--------|------|-------|
+| `pru13.winner` | Wikipedia: "Results of the 2013 Malaysian general election by parliamentary constituency" | **Secondary** | Scraped from rendered Wikitext. SPR has not published open data for GE13. |
+| `pru13.party` | Same Wikipedia page | **Secondary** | Party+coalition from table rows |
+| `pru13.votes` | Same Wikipedia page | **Secondary** | Winning candidate votes |
+| `pru13.majority` | Same Wikipedia page | **Secondary** | Winning majority |
+| `pru13.electors` | Same Wikipedia page | **Secondary** | Eligible voters count |
+| `pru13.turnout_pct` | Same Wikipedia page | **Secondary** | Voter turnout % |
+
+#### GE12 (2008)
+
+| Field | Source | Tier | Notes |
+|-------|--------|------|-------|
+| `pru12.winner` | Wikipedia: "Results of the 2008 Malaysian general election by parliamentary constituency" | **Secondary** | Scraped from rendered Wikitext. SPR has not published open data for GE12. |
+| `pru12.party` | Same Wikipedia page | **Secondary** | Party+coalition from table rows |
+| `pru12.votes` | Same Wikipedia page | **Secondary** | Winning candidate votes |
+| `pru12.majority` | Same Wikipedia page | **Secondary** | Winning majority |
+| `pru12.electors` | Same Wikipedia page | **Secondary** | Eligible voters count |
+| `pru12.turnout_pct` | Same Wikipedia page | **Secondary** | Voter turnout % |
 
 ---
 
@@ -51,48 +76,36 @@ The Wikipedia *main* election articles (not the constituency-results page) cite 
 | SPR Dashboard | `https://dashboard.spr.gov.my/` | Real-time results, electorate data, voter turnout |
 | SPR PRU14 Portal | `https://pru14.spr.gov.my/` (archived at `web.archive.org`) | GE14 results by constituency |
 | SPR Official Site | `https://www.spr.gov.my/` | Candidate lists, registered parties, election acts |
-| SPR Registered Party Symbols | `https://www.spr.gov.my/sites/default/files/SIMBOL%20PARTI%20YANG%20BERDAFTAR%20DENGAN%20SPR%20SEHINGGA%2017%20OKTOBER%202022.pdf` | PDF of all registered party logos |
-| SPR Voter Registration | `https://www.spr.gov.my/sites/default/files/KM%20BIL%2019%20PENDAFTARAN%20PENGUNDI%2018THN.pdf` | Voter registration data |
-| SPR Electoral Roll | `https://www.spr.gov.my/sites/default/files/Senarai%20BPR%2010.09.2019.pdf` | Electoral roll listing |
-| SPR Deposit Pricing (PRU14) | `http://www.spr.gov.my/sites/default/files/HargaDPIST42017_PRU14.pdf` | Candidate deposit amounts by constituency |
 
 ### Government Gazette
 
 | Source | URL | What |
 |--------|-----|------|
-| Federal Gazette (P.U. (A) 139) | `http://www.federalgazette.agc.gov.my/outputp/pua_20180613_P.U.%28A%29139.pdf` | Proclamation of election results — **this is the official gazetted result** |
+| Federal Gazette (P.U. (A) 139) | `http://www.federalgazette.agc.gov.my/outputp/pua_20180613_P.U.%28A%29139.pdf` | Proclamation of election results — **the official gazetted result** |
 | Federal Constitution | `http://www.agc.gov.my/images/Personalisation/Buss/pdf/Federal%20Consti%20%28BI%20text%29.pdf` | Constitutional basis for electoral districts |
 | Constituency boundary proclamation | `http://www.federalgazette.agc.gov.my/outputp/pub_20200915_PUB463.pdf` | 2020 constituency boundary changes |
 | Election Act (Akta 5) | `http://www.spr.gov.my/sites/default/files/perundangan/akta-5-cetakan-semula-2016.pdf` | Election laws and regulations |
-
-### News Media (Wikipedia's Secondary Sources for This Page)
-
-The "Results by parliamentary constituency" page directly cites:
-- Free Malaysia Today
-- New Straits Times
-- The Star
 
 ---
 
 ## 📊 Source Quality Summary
 
 ```
-Primary (from government)       30% — boundaries, codes, state
-Secondary (from Wikipedia)      40% — GE15 winner, party, votes, electors
+Primary (from government)       35% — boundaries, codes, state, GE14 votes
+Secondary (from Wikipedia)      55% — GE15, GE13, GE12 winners & votes, GE14 component parties
 Estimated (manual assignment)   10% — town mapping
-Unknown provenance              20% — GE14 winner/party (from pre-existing file)
 ```
 
 ## ✅ Best Path to Primary Data
 
 To get **true primary** election data:
 
-1. Visit **https://dashboard.spr.gov.my/** — SPR's official results dashboard (real-time + historical)
-2. Visit **https://pru14.spr.gov.my/** — GE14 official results (via archive)
+1. **GE14 (2018):** Already primary — SPR CSV from https://data.gov.my/data-catalogue/ge14_parlimen
+2. **GE12, GE13, GE15:** Visit **https://dashboard.spr.gov.my/** — SPR's official results dashboard (if historical data is available)
 3. Check **https://www.spr.gov.my/ms/pilihan-raya/penjalanan-pilihan-raya/calon** — official candidate lists
 4. For gazetted (legally binding) results: **Federal Gazette** (`www.federalgazette.agc.gov.my`) — look for P.U. (B) proclamation publications post-election
 5. For the **most authoritative** parliamentary constituency map: DOSM GeoJSON (already used here) + SPR's official constituency boundaries at `www.spr.gov.my`
 
 ---
 
-*Documented May 2026. Sources verified from Wikipedia citation chains and direct government URLs.*
+*Documented May 2026. Sources verified from Wikipedia citation chains, SPR open data portal, and direct government URLs.*
